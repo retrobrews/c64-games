@@ -1,0 +1,27 @@
+Sentence (c64 game from 1990)
+by Roysterini
+2018/09/23
+
+https://roysterini.itch.io/sentence-c64-game-from-1990
+
+
+Okay, call me brave... or stupid, but I'm posting up this bloomin' awful game. Terrible.
+It's the first game I did for the old Commodore 64 8 bit computer that I actually got some money for.
+Yeah I know! Money for this crap!
+Anyway, it's now here for posterity to show you how NOT to make a game. 
+The premise of the game is fine, but the implementation is lacking, to say the least.
+The game was coded without an assembler, but by coding straight into memory using a "freeze cartridge".
+
+Basically, this cartridge would "freeze" the computer and allow you to code machine code instructions 
+straight into memory. I would never have the patience for this now.
+The game is a simple run and gun scenario with some dubious combat sections. Simply make your way around 
+the obstacle course 3 times to gain access to the fight room. This is a kind of Running Man thing. 
+The better you do, the more years you can shave off your prison sentence. Hence the name! Clever eh?
+No?
+Well, meh...whatever.
+
+Play it on your fave C64 emulator (eg. WinVice) or hardware.  
+If you have the means to get the file onto hardware, I'm sure I don't need to explain the process. 
+If not, just use emulator, buddy.
+
+https://roysterini.itch.io/sentence-c64-game-from-1990

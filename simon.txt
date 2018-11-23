@@ -1,0 +1,10 @@
+Simon
+by Cout Games
+Jul 14, 2018
+
+https://coutgames.itch.io/simon
+
+A C64 version of the classic 80's memory game.
+Use keys: [R]ed [Y]ellow [G]reen [B]lue
+
+https://coutgames.itch.io/simon

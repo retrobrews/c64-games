@@ -1,0 +1,16 @@
+Roll Roll Roll
+by Cout Games
+Jul 03, 2018
+https://coutgames.itch.io/roll-roll-roll
+
+
+Roll Roll Roll is a dice game where you roll a single six sided dice where you can win money.
+On the first roll, you have the option to keep your roll as cash or roll again. Similarly, 
+on the second roll, you have the same two options again. On the third and final roll, you keep 
+whatever you roll (whatever the outcome). There are 10 rounds to a game.
+
+This is based on a mathematics problem with worked out from the averages of rolling three dice 
+in the hope of scoring the most points. The aim of the game is to beat the average (3.5) or 
+optimally (4.66 for 3 rolls).
+
+https://coutgames.itch.io/roll-roll-roll

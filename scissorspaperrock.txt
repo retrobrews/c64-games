@@ -1,0 +1,16 @@
+Scissors Paper Rock
+by Cout Games
+Jul 14, 2018
+https://coutgames.itch.io/spr
+
+
+Released at the 2016 Basic Tenliner Competition.
+Yes, this game is only 10 BASIC lines long.
+
+You verse the C64 in the ultimate game of computerised Scissors, Paper, Rock.
+Keeps track of your wins, loses and ties.
+
+Keys: [S]cissors, [P]aper, [R]ock.
+
+
+https://coutgames.itch.io/spr

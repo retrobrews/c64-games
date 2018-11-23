@@ -1,0 +1,26 @@
+Winky Blinky - 4Kb C64 Game
+by Roysterini
+2018/09/24
+
+This is a silly 4 kilobyte game I did for the 2016 4K Crap Game compo.
+Yes, the whole game is just 4k of ram, compressed. So, don't panic when 
+you run it and you see garbage on the screen for several seconds, 
+it's just the game unpacking into memory.
+
+So, what is it?
+
+Well, it's a daft reaction game where you just have to react to whether 
+Ben Turpin is winking or blinking. By pushing left or right on the 
+joystick you select whether he is blinking (both eyes) or winking (one eye). 
+You need to be quick as if you take too long, your score is reset and Ben's 
+eyes go bonkers.
+Push the wrong way and do a wink selection for a blink or a blink selection 
+for a wink and you fail. Yes, Ben's eyes go bonkers again and into a spin.
+
+Code anfd gfx by me with some additional cleanups by Vanja Utne of Pond/Privy.
+Music/sfx also done in a very minimal amount of ram by Vanja Utne.
+
+There's no title screen or anything due to the lack of memory. I didn't even 
+have a byte free. Exactly 4096 bytes (4kb) on disk.
+
+https://roysterini.itch.io/winky-blinky-4kb-c64-game

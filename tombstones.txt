@@ -1,0 +1,53 @@
+Tombstones (Free C64 game)
+by Megastyle
+Published	Nov 28, 2017
+https://megastyle.itch.io/tombstones
+
+THE STORY:
+Our hero - EL GRINGO - is infamous for being the fastest and most dangerous gunslinger 
+in the wild, wild west. But he is tired of killing, and wants to retire from his gunslinger 
+career to settle down with his true love, MISS. JIGGLYTITS. However, having this stellar 
+reputation tempt outlaws from the whole wide west to seek him down for duels! Will it be 
+possible for EL GRINGO to survive his retirement day and get to his true love?
+
+AIM OF THE GAME:
+To get to his true love, EL GRINGO has to gun down 6 outlaws on 3 different stages: 
+The Desert, The City and The Graveyard. Each outlaw is slightly quicker than the previous,
+ so EL GRINGO has to summon all his reaction, speed, and will to survive.
+
+HOW TO PLAY:
+Press space to start the game. Place your fingers on the keyboard while you GET READY. 
+When a random character is displayed on the screen, you have to press the same character 
+on the keyboard to draw and shoot your gun! If you are too slow, or you press the wrong 
+character, you will get wasted.  To quit the game and return to the intro press "RUN/STOP"
+
+TRAINER:
+You can press "F8" to activate/de-activate the trainer. This can only be done on the intro 
+screen. If the trainer is activated, the border changes color to dark blue. The trainer 
+gives you full invincibility and you will never loose a duel. Keep in mind that a cheater 
+is not worthy of any points on the hall of fame, so the score will remain at ZERO points 
+as long as you have the trainer activated.  You can always return to the intro by pressing 
+"RUN/STOP" and deactivate the trainer.     
+
+HI-SCORE SAVER:
+If you have a disk-drive or you play the D64 version on an emulator, the game has a 
+built-in high score saver. 
+
+CREDITS:
+Programming by Docster
+Graphics and Music by Rotteroy
+Based on idea by Drumtex
+Coding assistance: Scroll and Majikeyric
+Playtesting and moral support by Majikeyric, Drumtex, Scroll, Rage and Sparkler
+
+Instructions page made by Majikeyric with Petscii graphics by Shine, and sprites by Sparkler 
+and Rotteroy.
+
+Loading Picture by Sparkler
+Loading Music by Rage
+
+Developed in 2017 by Megastyle. Physical version distributed by Reset 64 on the coverdisk of 
+Reset magazine issue number 10 august 2017. Digital version distributed by Megastyle on ITCH 
+and CSDB september 2017
+
+https://megastyle.itch.io/tombstones

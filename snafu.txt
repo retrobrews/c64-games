@@ -1,0 +1,80 @@
+SNAFU '64
+by Megastyle
+Published	Nov 25, 2017
+https://megastyle.itch.io/snafu-64
+
+A remake of the Intellivision classic "SNAFU" for the Commodore 64/128. 
+
+
+-"A war between the serpents is on!  Chase your enemies with your aggressive snake, corner them in your maze. 
+Kill them one by one – or let them kill each other before you strike and win in a game where only the swift 
+will survive."
+
+
+Aim of the game:
+SNAFU '64 is a classic snake trap game where you must direct your snake so that it always has room to keep 
+moving freely. 
+At the same time, try to block your opponents so that they are forced into a collision. 
+If a snake collides with the edge of the picture, with an obstacle, with another snake or with part of itself, 
+it is killed and eliminated from the round. 
+
+
+Game variations:
+When you see the game title, press fire on your joystick in port 2 to enter the menu. In the menu you have the 
+opportunity to choose your own game variations by moving the joystick up or down.
+
+1. Play!: Start the game by pressing firebutton 
+2. Speed: Choose between Slow, Normal or Fast by pressing firebutton.
+3. Rounds: Choose number of rounds from 1 to 99 by moving joystick left or right
+4. Diagonal moves: Choose ”Yes” or ”No” by pressing firebutton. If you choose diagonal movement, you can cross 
+a diagonal trail when moving diagonally yourself. However, the intersection must be between links.
+5. Obstacles: Choose ”Yes” or ”No” by pressing firebutton.If you choose obstacles, these appear as different 
+colored objects scattered about the screen. 
+6. Remove Dead Snakes: Choose ”Yes” or ”No” by pressing firebutton. If you choose to remove dead snake, their 
+trails disappears when the player dies. If you keep them, they remain on screen as additional obstacles.
+
+All game variations can be played by 1 to 4 Players with the Protovision 4 Player Interface.
+
+
+How to play Snafu '64:
+When the game starts all snakes are frozen on the screen untill the fire button on Joystick Port 2 is pressed. 
+
+The snakes will start moving in a random direction choosen by the computer.
+
+The snakes will be controlled by the computer untill the player moves the joystick responding to his joystick. 
+If a player do not move his joystick for the first 5 seconds of the game the computer will control the snake 
+for the rest of the game. After you have moved your joystick, you will have control of your snake for the rest 
+of the round. 
+Note that if all ”active players” die, the game will speed up the remaining computer controlled snakes, and 
+quickly finish the round. 
+
+Player 1 = Blue Snake (Joystick port 2)
+Player 2 = Red Snake (Joystick port 1)
+Player 3 = Yellow Snake (Joystick adapter port 1)
+Player 4 = Purple Snake (Joystick adapter port 2)
+
+Your Snake will not respond if you try to change direction to the exact opposite of your present movement, 
+since this would cause you to have a head-on collision with yourself.
+When a snake collides, all other surviving snakes are awarded one point. If two snakes collide simultaneously, 
+both are eliminated and neither receives a point. Any other surviving snakes, however, receive two points. 
+Points are accumulated throughout the number of rounds set at the beginning of the game (up to 99). 
+Points are displayed along the bottom of the screen, in the color of the snake
+The ingame music lets you know that the current round of play had reached the "showdown" stage -- a battle 
+between the last two existing snakes.  
+If you want to quit the game press ”RUN/STOP” to return to the title screen.
+
+ 
+SNAFU'64 Credits:
+Programmed by Ruben Spaans and Eric Hilaire
+Graphics by Roy Widding 
+Music by Roy Widding 
+
+Game Manual Petscii graphic by Andy Zeidler
+A game developed by Megastyle (c) 1997/2016
+
+Game concept roughly based on the intellivision title ”Snafu” (c) 1981 Mattel/Intellivision Productions, Inc.
+
+Play the original game on the INTELLIVISION LIVES! CD-ROM available at www.intellivisionlives.com
+
+
+https://megastyle.itch.io/snafu-64

@@ -1,0 +1,28 @@
+Scissors Paper Rock Lizard Spock
+by Cout Games
+Jul 14, 2018
+https://coutgames.itch.io/sprlk
+
+
+Released at the 2016 Basic Tenliner Competition. Yes, this game is only 10 BASIC lines long.
+
+You verse the C64 in the ultimate game  which extends the traditional Scissors, Paper, Rock game with two new elements: Lizard and Spock.
+
+Keys: [S]cissors, [P]aper, [R]ock, [L]izard and Spoc[K].
+
+Rules:-
+Scissors cuts Paper
+Paper covers Rock
+Rock crushes Lizard
+Lizard poisons Spock
+Spock smashes Scissors
+Scissors decapitates Lizard
+Lizard eats Paper
+Paper disproves Spock
+Spock vaporizes Rock
+Rock crushes Scissors
+
+Keeps track of your wins, loses and ties.
+
+
+https://coutgames.itch.io/sprlk
