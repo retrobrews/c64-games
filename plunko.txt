@@ -1,0 +1,16 @@
+Plunko
+by Cout Games
+Jul 03, 2018
+https://coutgames.itch.io/plunko
+
+This game is based off one of the pricing games from the US version of The Price Is Right. 
+The player is given 10 flat discs which are released one at a time from the top of the board.  
+The game board consists of a number of pegs which bounce the disc randomly around. 
+As the disc falls to the bottom, it is impossible to determine where the disc might end up. 
+At the bottom of the board, the disc stop and lands in a money slot the player can win.
+
+The game was put through 100,000 rounds and it is theoretically possible to get the top amount 
+from anywhere the disc is dropped from on the board. However, you do have a greater chance of 
+winning money from the middle, but it is also twice as likely that you will get nothing as well. 
+
+https://coutgames.itch.io/plunko

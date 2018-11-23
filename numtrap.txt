@@ -1,0 +1,8 @@
+NumTrap
+by Cout Games
+2018/08/21
+
+Trap the number by guessing a low and high number.
+
+
+https://coutgames.itch.io/numtrap

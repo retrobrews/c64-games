@@ -1,0 +1,20 @@
+Paper Plane - C64 (retro casual game)
+by Roysterini
+Dec 11, 2017
+https://roysterini.itch.io/paper-plane-c64
+
+I wrote this C64 game in 2014.  Can be played in your favourite Commodore 64 emulator. This is the PAL version (if playing on hardware).
+In this game you must guide your paper plane through the hazards. You can use left / right to steer and adjust your speed.
+This is the uncracked, untrained version.
+
+Free to download. Quite niche for C64 lovers who like casual games.
+
+UPDATE: There is now also an updated version of Paper Plane as an Easter Egg game inside Jason Aldred's Steam version of the C64 game, Galencia.
+Find more info  here:
+Info
+
+Actual Steam link to Galencia here:  (the only way to play the Steam version) --> https://store.steampowered.com/app/887510/Galencia/
+
+
+
+https://roysterini.itch.io/paper-plane-c64

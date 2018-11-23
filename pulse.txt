@@ -1,0 +1,20 @@
+Pulse
+by Eyes
+Jun 12, 2017
+https://eyes-uk.itch.io/pulse
+
+Highly addictive shoot-'em-up for unexpanded Commodore VIC-20s or for machines with +3/8/16K additional RAM. Will play faster with extra memory.
+Features smooth horizontal scrolling, 16 sprites, boosted digital audio and playing digital audio from tape before start.
+Includes TAP files for (datassette) emulators, WAV files for recording tapes and disk/sd2iec versions. All for both PAL and NTSC.
+With the purchase of this game you support development of new titles as well as founding a new retro tape distributor.
+
+"…the game is truly amazing on any platform, but is a work of art on the VIC." (Commodore Free #80, rating: 10/10)
+"Of course graphics and sound and other things have a huge impact on this but the most important thing is the unforgettable atmosphere which you will experience when playing 'Pulse'," (K&A plus #3, game play rating: 9/10)
+"And all this on an unexpanded VIC-20. A miracle." (Commodore & Amiga games #9)
+Game: Sven Michael "pixel" Klose
+Title graphics: Bryan "darkatx" Henry
+Title tune: "No Syrup" by Anders "boray" Persson (http://boray.se)
+Hiscore table tune: Lukas Ramolla
+
+
+https://eyes-uk.itch.io/pulse

@@ -1,0 +1,8 @@
+Magic Squares
+by Cout Games
+2018/08/09
+
+The aim of the game is to colour all the squares in a 3x3 grid except the centre one. 
+Pressing the buttons 1 - 9 colour/darken the boxes accordingly. 
+
+https://coutgames.itch.io/magic-squares

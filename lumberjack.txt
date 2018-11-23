@@ -1,0 +1,39 @@
+Lumberjack 4k (Free C64 game)  (Lumberjack 4k.d64)
+by Megastyle
+2017/11/26
+https://megastyle.itch.io/lumberjack
+
+
+
+Megastyle & Protovision presents Lumberjack 4k
+
+The silver medal winner of the Reset 4kb Game Coding Competition in 2016.
+
+Instructions:
+Rip off your grey and boring suit and reveal the red flannel shirt you are 
+hiding under you clothes. Let your beard grow and equip yourself with a big 
+axe and enter the woods. Just admit it, You've always wanted to be a 
+LUMBERJACK!
+This is your chance to turn your dreams into reality. Enter the forest and 
+start chopping wood, but beware of the branches, if they hit you - they 
+will kill you!
+Plug your joystick in port 2. Use firebutton to start a new game. Move your 
+joystick to the left or right to chop.
+By moving left you will chop on the left side, and by moving right you will 
+chop on the right side. 
+
+Credits:
+
+Programming by Eric Hilaire / Majikeyric / Megastyle
+Graphics by Roy Johan Widding / Rotteroy / Megastyle
+Music and sound effects by Vidar Bang / Drumtex / Megastyle
+
+(C) 2016 Megastyle & Protovision 
+
+PAL / NTSC / SuperCPU compatible
+
+Related links:
+CSDb : http://csdb.dk/event/?id=2483
+Lemon64 : http://www.lemon64.com/forum/viewtopic.php?t=60501
+
+

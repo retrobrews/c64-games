@@ -1,0 +1,7 @@
+Lights On
+by Cout Games
+2018/08/10
+
+Turn on all the coloured lights on a 3x3 grid.
+
+https://coutgames.itch.io/lights-on
