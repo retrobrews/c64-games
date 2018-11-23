@@ -1,0 +1,10 @@
+Bapple-Ships
+by Cout Games
+2018/11/15
+
+In this game, you compete against the computer each placing 5 ships on the same 10x10 grid.
+
+The aim of the game is to shoot down your computers ship before it destroys yours!
+
+
+https://coutgames.itch.io/bapple-ships

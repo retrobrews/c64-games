@@ -1,0 +1,339 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <gameList>
+   <game>
+     <path>./100box.prg</path>
+     <name>$100 Box</name>
+     <desc>This game is based on a mathematics game theory problem of 100 people. However, the game simulates the problem with just one player. The computer selects a random number from 00 to 99 as your lucky number. You will need to guess which box from 00-99 where the lucky number is hidden. The game allows you to have up to 50 guesses, but it's not easy to win as it sounds!</desc>
+     <image>./100box.png</image>
+     <rating>0</rating>
+     <releasedate>20181115T000000</releasedate>
+     <developer>Cout Games</developer>
+     <publisher>HOMEBREW ROM</publisher>
+     <genre>$100 Box</genre>
+     <players>1</players>
+   </game>
+   <game>
+     <path>./athanor_plus4.d64</path>
+     <name>Athanor The Awakening</name>
+     <desc>Athanor takes place in the south of Italy in the 12th Century. You are playing as a Franciscan monk, sent by his Holy order in order to make an inquiry in an abbey where suspect events have aroused many fears. You will lead this inquiry in order to discover the mysteries lying within this abbey. Let your conscience be your guide and you may discover greater secrets that you could have thought of.</desc>
+     <image>./athanor_plus4.png</image>
+     <rating>0</rating>
+     <releasedate>20171020T000000</releasedate>
+     <developer>Megastyle</developer>
+     <publisher>HOMEBREW ROM</publisher>
+     <genre>Athanor The Awakening (C-plus4 version)</genre>
+     <players>1</players>
+   </game>
+   <game>
+     <path>./bappleship.prg</path>
+     <name>Bapple-Ships</name>
+     <desc>In this game, you compete against the computer each placing 5 ships on the same 10x10 grid. The aim of the game is to shoot down your computers ship before it destroys yours!</desc>
+     <image>./bappleship.png</image>
+     <rating>0</rating>
+     <releasedate>20181115T000000</releasedate>
+     <developer>Cout Games</developer>
+     <publisher>HOMEBREW ROM</publisher>
+     <genre>Bapple-Ships</genre>
+     <players>1</players>
+   </game>
+   <game>
+     <path>./captaincloudberry.d64</path>
+     <name>Captain Cloudberry</name>
+     <desc>For more than 13 years, citizens of DOUGAL CITY have suffered terrible weather and heavy rainstorms. It turns out that an evil witch, SABA MONTHBLEED, has peppered the sky with radioactive weather balloons! The desperate villagers contact a local stunt pilot CAPTAIN CLOUDBERRY and begs for his help as he is the only man capable of maneuvering around the frozen clouds. The aim of the game is to fly the plane and ram all the balloons, pop the blinking balloons and avoid the frozen and lethal clouds. When the fuel tank is empty, Captain Cloudberry is grounded. Grounded... FOREVER!</desc>
+     <image>./captaincloudberry.png</image>
+     <rating>0</rating>
+     <releasedate>20171221T000000</releasedate>
+     <developer>Megastyle</developer>
+     <publisher>HOMEBREW ROM</publisher>
+     <genre>Captain Cloudberry - Episode IV : Helium</genre>
+     <players>1</players>
+   </game>
+   <game>
+     <path>./explodingfish.d64</path>
+     <name>Exploding Fish</name>
+     <desc>The evil Doctor Drax has been busy, dropping bombs onto the protected reefs. Take control of Diver Dougal. Dive deep, defuse bombs, avoid nasties... and watch out for alien artefacts! Collect all the encryption keys in order to access and defuse the bombs. Better watch out for the sea life though... Those creatures really hate intruders! So set sail on the - Unsinkable 2- and make the sea a safer place.</desc>
+     <image>./explodingfish.png</image>
+     <rating>0</rating>
+     <releasedate>20180502T000000</releasedate>
+     <developer>Megastyle</developer>
+     <publisher>HOMEBREW ROM</publisher>
+     <genre>Exploding Fish</genre>
+     <players>1</players>
+   </game>
+   <game>
+     <path>./findthepussy.prg</path>
+     <name>Find The Pussy</name>
+     <desc>The premise of the game is based on a maths/game theory. Based on logic you can deduce where the cat in within 6 guesses. Additionally, just random guessing you may never find the cat.</desc>
+     <image>./findthepussy.png</image>
+     <rating>0</rating>
+     <releasedate>20181115T000000</releasedate>
+     <developer>Cout Games</developer>
+     <publisher>HOMEBREW ROM</publisher>
+     <genre>Find The Pussy</genre>
+     <players>1</players>
+   </game>
+   <game>
+     <path>./happyflappy.prg</path>
+     <name>Happy Flappy</name>
+     <desc>Simple casual game... a one button (press fire/space) game. Just like Flappy Bird. If you don't know Flappy Bird you can get in the sea.</desc>
+     <image>./happyflappy.png</image>
+     <rating>0</rating>
+     <releasedate>20180923T000000</releasedate>
+     <developer>Roysterini</developer>
+     <publisher>HOMEBREW ROM</publisher>
+     <genre>Happy Flappy (C64 Flappy Bird clone)</genre>
+     <players>1</players>
+   </game>
+   <game>
+     <path>./hektic2.prg</path>
+     <name>Hektic II</name>
+     <desc>It's an action game, set in an arcade and platform themes. The object is to destroy all the monsters on screen that chase the player around the level.</desc>
+     <image>./hektic2.png</image>
+     <rating>0</rating>
+     <releasedate>20171211T000000</releasedate>
+     <developer>Roysterini</developer>
+     <publisher>HOMEBREW ROM</publisher>
+     <genre>Hektic II</genre>
+     <players>1</players>
+   </game>
+   <game>
+     <path>./humpy64.prg</path>
+     <name>Humpy64</name>
+     <desc>Survive from being hit by the swinging ball as long as you can. It slowly gets faster and some wind will affect you too, so you have to counteract the wind by pushing left/right to stay on the podium. Jump with fire... you can double jump if that sort of thing floats yer boat.</desc>
+     <image>./humpy64.png</image>
+     <rating>0</rating>
+     <releasedate>20180729T000000</releasedate>
+     <developer>Roysterini</developer>
+     <publisher>HOMEBREW ROM</publisher>
+     <genre>Humpy64</genre>
+     <players>1</players>
+   </game>
+   <game>
+     <path>./lightsoff.prg</path>
+     <name>Lights Off</name>
+     <desc>Turn off all the coloured lights on a 3x3 grid.</desc>
+     <image>./lightsoff.png</image>
+     <rating>0</rating>
+     <releasedate>20180810T000000</releasedate>
+     <developer>Cout Games</developer>
+     <publisher>HOMEBREW ROM</publisher>
+     <genre>Lights Off</genre>
+     <players>1</players>
+   </game>
+   <game>
+     <path>./lightson.prg</path>
+     <name>Lights On</name>
+     <desc>Turn on all the coloured lights on a 3x3 grid.</desc>
+     <image>./lightson.png</image>
+     <rating>0</rating>
+     <releasedate>20180810T000000</releasedate>
+     <developer>Cout Games</developer>
+     <publisher>HOMEBREW ROM</publisher>
+     <genre>Lights On</genre>
+     <players>1</players>
+   </game>
+   <game>
+     <path>./lumberjack.d64</path>
+     <name>Lumberjack 4k</name>
+     <desc>Rip off your grey and boring suit and reveal the red flannel shirt you are hiding under you clothes. Let your beard grow and equip yourself with a big axe and enter the woods. Just admit it, You've always wanted to be a LUMBERJACK!This is your chance to turn your dreams into reality. Enter the forest and start chopping wood, but beware of the branches, if they hit you - they will kill you!Plug your joystick in port 2. Use firebutton to start a new game. Move your joystick to the left or right to chop.By moving left you will chop on the left side, and by moving right you will chop on the right side.</desc>
+     <image>./lumberjack.png</image>
+     <rating>0</rating>
+     <releasedate>20171126T000000</releasedate>
+     <developer>Megastyle</developer>
+     <publisher>HOMEBREW ROM</publisher>
+     <genre>Lumberjack 4k</genre>
+     <players>1</players>
+   </game>
+   <game>
+     <path>./magicsquares.prg</path>
+     <name>Magic Squares</name>
+     <desc>The aim of the game is to colour all the squares in a 3x3 grid except the centre one. Pressing the buttons 1 - 9 colour/darken the boxes accordingly.</desc>
+     <image>./magicsquares.png</image>
+     <rating>0</rating>
+     <releasedate>20180809T000000</releasedate>
+     <developer>Cout Games</developer>
+     <publisher>HOMEBREW ROM</publisher>
+     <genre>Magic Squares</genre>
+     <players>1</players>
+   </game>
+   <game>
+     <path>./monsterhunt.prg</path>
+     <name>Monster Hunt</name>
+     <desc>Chase monsters into the centre black hole.</desc>
+     <image>./monsterhunt.png</image>
+     <rating>0</rating>
+     <releasedate>20180901T000000</releasedate>
+     <developer>Cout Games</developer>
+     <publisher>HOMEBREW ROM</publisher>
+     <genre>Monster Hunt</genre>
+     <players>1</players>
+   </game>
+   <game>
+     <path>./moonrock.prg</path>
+     <name>Moon Rock</name>
+     <desc>The object of the game is to pick your nose to find 'moon rocks'. You can pick from either your your left or right nostril at anytime. The more you pick the more points you score! However, don't pick too much or you will get a nosebleed!</desc>
+     <image>./moonrock.png</image>
+     <rating>0</rating>
+     <releasedate>20180703T000000</releasedate>
+     <developer>Cout Games</developer>
+     <publisher>HOMEBREW ROM</publisher>
+     <genre>I Found A Moon Rock In My Nose</genre>
+     <players>1</players>
+   </game>
+   <game>
+     <path>./numtrap.prg</path>
+     <name>NumTrap</name>
+     <desc>Trap the number by guessing a low and high number.</desc>
+     <image>./numtrap.png</image>
+     <rating>0</rating>
+     <releasedate>20180821T000000</releasedate>
+     <developer>Cout Games</developer>
+     <publisher>HOMEBREW ROM</publisher>
+     <genre>NumTrap</genre>
+     <players>1</players>
+   </game>
+   <game>
+     <path>./paperplane.prg</path>
+     <name>Paper Plane</name>
+     <desc>In this game you must guide your paper plane through the hazards. You can use left / right to steer and adjust your speed.</desc>
+     <image>./paperplane.png</image>
+     <rating>0</rating>
+     <releasedate>20171211T000000</releasedate>
+     <developer>Roysterini</developer>
+     <publisher>HOMEBREW ROM</publisher>
+     <genre>Paper Plane</genre>
+     <players>1</players>
+   </game>
+   <game>
+     <path>./plunko.prg</path>
+     <name>Plunko</name>
+     <desc>This game is based off one of the pricing games from the US version of The Price Is Right. The player is given 10 flat discs which are released one at a time from the top of the board.  The game board consists of a number of pegs which bounce the disc randomly around. As the disc falls to the bottom, it is impossible to determine where the disc might end up. At the bottom of the board, the disc stop and lands in a money slot the player can win. The game was put through 100,000 rounds and it is theoretically possible to get the top amount from anywhere the disc is dropped from on the board. However, you do have a greater chance of winning money from the middle, but it is also twice as likely that you will get nothing as well.</desc>
+     <image>./plunko.png</image>
+     <rating>0</rating>
+     <releasedate>20180703T000000</releasedate>
+     <developer>Cout Games</developer>
+     <publisher>HOMEBREW ROM</publisher>
+     <genre>Plunko</genre>
+     <players>1</players>
+   </game>
+   <game>
+     <path>./pulse.prg</path>
+     <name>Pulse</name>
+     <desc>Highly addictive shoot-'em-up game. Features smooth horizontal scrolling, 16 sprites, boosted digital audio and playing digital audio from tape before start.</desc>
+     <image>./pulse.png</image>
+     <rating>0</rating>
+     <releasedate>20170612T000000</releasedate>
+     <developer>East Yorkshire Engineering Software</developer>
+     <publisher>HOMEBREW ROM</publisher>
+     <genre>Pulse</genre>
+     <players>1</players>
+   </game>
+   <game>
+     <path>./rollrollroll.prg</path>
+     <name>Roll Roll Roll</name>
+     <desc>Roll Roll Roll is a dice game where you roll a single six sided dice where you can win money. On the first roll, you have the option to keep your roll as cash or roll again. Similarly, on the second roll, you have the same two options again. On the third and final roll, you keep whatever you roll (whatever the outcome). There are 10 rounds to a game.</desc>
+     <image>./rollrollroll.png</image>
+     <rating>0</rating>
+     <releasedate>20180703T000000</releasedate>
+     <developer>Cout Games</developer>
+     <publisher>HOMEBREW ROM</publisher>
+     <genre>Roll Roll Roll</genre>
+     <players>1</players>
+   </game>
+   <game>
+     <path>./scissorspaperrock.prg</path>
+     <name>Scissors Paper Rock</name>
+     <desc>You verse the C64 in the ultimate game of computerised Scissors, Paper, Rock. Keeps track of your wins, loses and ties.</desc>
+     <image>./scissorspaperrock.png</image>
+     <rating>0</rating>
+     <releasedate>20180714T000000</releasedate>
+     <developer>Cout Games</developer>
+     <publisher>HOMEBREW ROM</publisher>
+     <genre>Scissors Paper Rock</genre>
+     <players>1</players>
+   </game>
+   <game>
+     <path>./scissorspaperrocklizardspock.prg</path>
+     <name>Scissors Paper Rock Lizard Spock</name>
+     <desc>You verse the C64 in the ultimate game  which extends the traditional Scissors, Paper, Rock game with two new elements: Lizard and Spock. Rules: Scissors cuts Paper; Paper covers Rock; Rock crushes Lizard; Lizard poisons Spock; Spock smashes Scissors; Scissors decapitates Lizard; Lizard eats Paper; Paper disproves Spock; Spock vaporizes Rock; Rock crushes Scissors. Keeps track of your wins, loses and ties.</desc>
+     <image>./scissorspaperrocklizardspock.png</image>
+     <rating>0</rating>
+     <releasedate>20180714T000000</releasedate>
+     <developer>Cout Games</developer>
+     <publisher>HOMEBREW ROM</publisher>
+     <genre>Scissors Paper Rock Lizard Spock</genre>
+     <players>1</players>
+   </game>
+   <game>
+     <path>./sentence.d64</path>
+     <name>Sentence</name>
+     <desc>The game is a simple run and gun scenario with some dubious combat sections. Simply make your way around the obstacle course 3 times to gain access to the fight room. This is a kind of Running Man thing. The better you do, the more years you can shave off your prison sentence. Hence the name! Clever eh? No? Well, meh...whatever.</desc>
+     <image>./sentence.png</image>
+     <rating>0</rating>
+     <releasedate>20180923T000000</releasedate>
+     <developer>Roysterini</developer>
+     <publisher>HOMEBREW ROM</publisher>
+     <genre>Sentence (C64 game from 1990)</genre>
+     <players>1</players>
+   </game>
+   <game>
+     <path>./simon.prg</path>
+     <name>Simon</name>
+     <desc>A C64 version of the classic 80's memory game. Use keys: [R]ed [Y]ellow [G]reen [B]lue.</desc>
+     <image>./simon.png</image>
+     <rating>0</rating>
+     <releasedate>20180714T000000</releasedate>
+     <developer>Cout Games</developer>
+     <publisher>HOMEBREW ROM</publisher>
+     <genre>Simon</genre>
+     <players>1</players>
+   </game>
+   <game>
+     <path>./snafu.d64</path>
+     <name>Snafu</name>
+     <desc>SNAFU '64 is a classic snake trap game where you must direct your snake so that it always has room to keep moving freely. At the same time, try to block your opponents so that they are forced into a collision. If a snake collides with the edge of the picture, with an obstacle, with another snake or with part of itself, it is killed and eliminated from the round.</desc>
+     <image>./snafu.png</image>
+     <rating>0</rating>
+     <releasedate>20171125T000000</releasedate>
+     <developer>Megastyle</developer>
+     <publisher>HOMEBREW ROM</publisher>
+     <genre>Snafu '64</genre>
+     <players>1</players>
+   </game>
+   <game>
+     <path>./thelabyrinth.prg</path>
+     <name>The Labyrinth</name>
+     <desc>3D maze game with map ported from the VIC20.</desc>
+     <image>./thelabyrinth.png</image>
+     <rating>0</rating>
+     <releasedate>20180901T000000</releasedate>
+     <developer>Cout Games</developer>
+     <publisher>HOMEBREW ROM</publisher>
+     <genre>The Labyrinth</genre>
+     <players>1</players>
+   </game>
+   <game>
+     <path>./tombstones.d64</path>
+     <name>Tombstones</name>
+     <desc>To get to his true love, EL GRINGO has to gun down 6 outlaws on 3 different stages. Press space to start the game. Place your fingers on the keyboard while you GET READY. When a random character is displayed on the screen, you have to press the same character on the keyboard to draw and shoot your gun! You can press "F8" to activate/de-activate the trainer. This can only be done on the intro screen. If you have a disk-drive or you play the D64 version on an emulator, the game has a built-in high score saver.</desc>
+     <image>./tombstones.png</image>
+     <rating>0</rating>
+     <releasedate>20171128T000000</releasedate>
+     <developer>Megastyle</developer>
+     <publisher>HOMEBREW ROM</publisher>
+     <genre>Tombstones</genre>
+     <players>1</players>
+   </game>
+   <game>
+     <path>./winkyblinky.prg</path>
+     <name>Winky Blinky</name>
+     <desc>Well, it's a daft reaction game where you just have to react to whether Ben Turpin is winking or blinking. By pushing left or right on the joystick you select whether he is blinking (both eyes) or winking (one eye). You need to be quick as if you take too long, your score is reset and Ben's eyes go bonkers.Push the wrong way and do a wink selection for a blink or a blink selection for a wink and you fail. Yes, Ben's eyes go bonkers again and into a spin.</desc>
+     <image>./winkyblinky.png</image>
+     <rating>0</rating>
+     <releasedate>20180924T000000</releasedate>
+     <developer>Roysterini</developer>
+     <publisher>HOMEBREW ROM</publisher>
+     <genre>Winky Blinky</genre>
+     <players>1</players>
+   </game>
+  </gameList>

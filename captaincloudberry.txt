@@ -1,0 +1,57 @@
+Captain Cloudberry - Episode IV : Helium (Free C64 game)
+by Megastyle
+2017/12/21
+
+THE STORY SO FAR
+For more than 13 years, citizens of DOUGAL CITY have suffered terrible weather and heavy rainstorms. 
+It turns out that an evil witch, SABA MONTHBLEED, has peppered the sky with radioactive weather balloons! 
+This has given her complete control of the atmosphere, keeping the villagers trapped in her meteorological 
+terror. The citizens has tried to destroy the balloons, but the witch has thrown a spell on the clouds, 
+freezing the clouds to stone hard ice,  making it impossible for them to get to balloons and destroy them...
+
+The desperate villagers contact a local stunt pilot CAPTAIN CLOUDBERRY and begs for his help as he is the 
+only man capable of maneuvering around the frozen clouds. 
+
+The famous Ace agrees to restore natural order, but he has one little problem: A few days ago, there was 
+an incident. While on stunt practice, he had a close call with a hang-gliding desperado. 
+This flyboy maniac attacked the rudder, leaving it damaged. Now, Cloudberry's plane can only turn one way!
+
+AIM OF THE GAME
+- Fly the plane and ram all the balloons.
+- Pop the blinking balloons in the correct order for bonus points.
+- Avoid the frozen and lethal clouds.
+- Your plane can only turn one way, but thunderclouds may be helpful - lightning is known to cause a 
+change of direction!
+- The evil witch will attempt to thwart you by respawning balloons!
+- There are unlimited planes, but limited fuel.
+- When the fuel tank is empty, Captain Cloudberry is grounded. Grounded... FOREVER!
+
+CONTROLS:
+Captain Cloudberry is a one button game, designed to be used with the SiBUGA single button game controller. 
+The game can also be controlled with the fire button of an ordinary joystick plugged into port 2.
+
+Control the plane by pressing fire to make it turn. The plane will keep turning as long as you hold the fire
+ button. When you release fire the plane will continue straight forward in the angle it is facing.
+
+Remember that the plane can only turn in one direction, but if you run into lightning, the controls will 
+change and the plane will turn the opposite way.
+
+
+CAPTAIN CLOUDBERRY - THE CREDITS:
+
+Developed by Megastyle in 2017
+Programming by: Docster
+Graphic & Music by: Rotteroy
+Additional graphics by: FX
+Level design: by Rotteroy
+Game testers: Rage, Scroll, Vinny, Microbit
+Docs written by: Rotteroy and Drumtex
+Docfile programmed by: Majikeyric
+Docfile Petscii by: Shine
+Loading screen: Sparkler
+Loading Music: Drumtex
+Linking: Majikeyric
+Inbuilt trainer and NTSC fix by: Docster
+
+
+https://megastyle.itch.io/cloudberry

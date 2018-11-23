@@ -1,0 +1,12 @@
+Hektic II, C64 Game
+by Roysterini
+2017/12/11
+
+It's an action game, set in an arcade and platform themes. The object is to destroy all the monsters on screen that chase the player around the level.
+Okay, this is an old C64 game I wrote that can be played in your favourite Commodore 64 emulator.
+This is the uncracked, untrained version.
+
+Free to download. One for the retro heads.
+
+
+https://roysterini.itch.io/hektic-ii-c64-game

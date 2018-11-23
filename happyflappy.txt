@@ -1,0 +1,14 @@
+Happy Flappy (C64 Flappy Bird clone)
+by Roysterini
+2018/09/23
+
+A game for the C64  that can be played in your favourite Commodore 64 emulator or on hardware (PAL version only).
+This is the uncracked, untrained version.
+
+I'm afraid it's a tad glitchy. It was my first C64 game in about 21 years.
+
+Simple casual game... a one button (press fire/space) game. Just like Flappy Bird. If you don't know Flappy Bird you can get in the sea. 
+
+
+
+https://roysterini.itch.io/happy-flappy-c64-flappy-bird-clone

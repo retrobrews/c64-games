@@ -1,0 +1,13 @@
+$100 Box
+by cout games
+2018/11/15
+
+This game is based on a mathematics game theory problem of 100 people. However, the game simulates the problem with just one player. 
+
+The computer selects a random number from 00 to 99 as your lucky number. 
+You will need to guess which box from 00-99 where the lucky number is hidden.
+
+The game allows you to have up to 50 guesses, but it’s not easy to win as it sounds!
+
+
+https://coutgames.itch.io/100-box

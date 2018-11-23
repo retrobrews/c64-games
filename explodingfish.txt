@@ -1,0 +1,115 @@
+Exploding Fish (Commodore 64 game)
+by Megastyle
+2018/05/02
+
+This game is released as a physical Commodore 64 version on the floppy disk enclosed 
+with issue 11 of Reset Magazine. 
+If you want to buy that version, visit Protovisions Web Shop:
+https://www.protovision.games/shop/product_info.php?products_id=215&MODsid=0m3hu65osclbp2nle4d8q47bb3
+
+All income from this digital version will be used to finance a physical collectors tape 
+version, hopefully released around august/september 2018. More info of how to secure 
+yourself that version coming soon. 
+
+Progress for the tape version by 06 July 2018: 
+Layout for Cover, Inlay and Tape is done. Work is now focused on mastering the tapes. 
+
+Thanks for your patience and we hope you enjoy the game.
+
+
+Aim of the game
+The evil Doctor Drax has been busy, dropping bombs onto the protected reefs.
+
+Take control of Diver Dougal. Dive deep, defuse bombs, avoid nasties... 
+and watch out for alien artefacts!
+
+Collect all the encryption keys in order to access & defuse the bombs. 
+Better watch out for the sea life though... Those creatures really hate intruders!
+
+So set sail on the - Unsinkable 2- and make the sea a safer place.
+
+
+Game info
+Your trusty boat, the Unsinkable 2 enters from the right and drops Dougal in the water. 
+From there you must swim down and collect each of the five encryption keys in turn and 
+take them to the end-portal. Each time a key is used, the display on the portal will 
+show how many more keys are needed. When all keys have been used, the portal will 
+dissolve and Dougal will be able to access the bomb. This must be collected and returned 
+to the boat before the countdown timer elapses. If that happens, it's well and truly 
+game-over… BOOM! 
+
+Successfully returning the bomb to the boat is the goal of each level. Dougal will climb 
+back onboard the Unsinkable 2 which will take him off to save the next reef! Any remaining 
+time on the countdown timer will be converted to bonus points before the next level begins.
+
+On each level there are other collectables to find. Air cylinders and medipacks replenish 
+air and health respectively. Occasionally the player will come across an alien artefact, 
+no doubt dropped accidentally from a passing flying saucer! Collecting one of these is 
+always a gamble. There are a random mixed bag of about 15 different effects this could 
+have, some good but some bad.
+
+You must battle your way from reef to increasingly difficult reef until you eventually reach
+ Dr. Drax’s secret dock. That’s your chance to finish him off for good, but be warned- he’s 
+ no pushover!
+
+
+Playing the game
+The game is controlled with a joystick in port 2. Use the SPACEBAR to pause.
+Keep a close eye on the countdown timer, if it reaches zero then it’s all over! Press fire 
+to collect the various items scattered throughout each level - trianguar encryption keys, 
+air cylinders, medipacks or alien artefacts. There’s also a lot of treasure scattered about 
+in the form of gold coins. Simply swim into these to collect them for a healthy score boost! 
+Please note that you can only hold one encryption key at a time. Take each one to the bomb 
+portal and press joystick-down+fire to use the key. The number shown on the portal will 
+decrease, telling you how many more keys are needed. Once you have used all 5 keys then the 
+portal will dissolve allowing you to collect the bomb. Better get it back to the boat as 
+soon as possible!
+
+
+Health and air
+As you swim around underwater, the air in your cylinder will slowly be used up. Collecting 
+air cylinders will give your air level a much needed top-up. Don’t let your air reach zero 
+otherwise your health will start to deplete!
+
+Each level has it’s share of genetically modified fish, all released by Dr. Drax to keep 
+unwanted meddlers at bay! Allowing any of these to touch you will result in you losing a 
+chunk of your health. Also watch out for Mermaids, normally they are quite peaceful they 
+can’t resist stealing air from passing divers! Whenever you begin a new level, your air 
+will have been fully replenished but only some of your health will have been restored so 
+be careful!
+
+Helpful hint
+swimming close to the surface wherever possible will preserve your air supply because 
+Dougal can breathe through his snorkel.
+
+Level codes
+Every time you complete a level, you will be given a code for the following level. 
+Always make sure you write these down as they can be entered on the title screen and used to 
+begin subsequent games without having to start from level 1 each time. There’s no such thing 
+as a free lunch as the saying goes, so be aware that the higher the level you jump to, the 
+less health you will start with!
+
+
+EXPLODING FISH - THE CREDITS:
+Developed by Megastyle
+Published by Reset Magazine and Megastyle
+
+Programming, graphics and level design by: Chris Stanley
+Sprites and animations by: Roy Widding and Chris Stanley
+Game music by: Andrew Fisher
+
+Docs written by: Chris Stanley
+Docfile programmed by: Eric Hilaire
+Docfile graphics by: Roy Widding
+
+Loading screen by: Rune Spaans
+Loading music by: Anders Rodahl
+
+Megastyle Game Intro by: Kåre Johansen and Roy Widding
+
+Exploding Fish advertisement: Del Seymour
+
+Thanks to Vidar Bang, David Eriksson, Ruben Spaans and Chris Ledger for helpful suggestions and 
+testing the game.
+
+https://megastyle.itch.io/exploding-fish

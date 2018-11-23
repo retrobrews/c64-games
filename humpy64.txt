@@ -1,0 +1,37 @@
+Humpy64 (preview/canned)
+by Roysterini
+Jul 29, 2018
+https://roysterini.itch.io/humpy64
+
+Okay, this is an unfinished casual C64 game I wrote that can be played in 
+your favourite Commodore 64 emulator.  (PAL version).
+Update: There is an "NTSC fixed" and "cracked" version by Excess floating 
+about, but that's somewhat destructive to the scores in the border. Play 
+this one on PAL or emulator in PAL mode for a cleaner version with music 
+at the correct speed.
+
+I decided to cease work on this super simple game that has been lingering 
+for a while now.
+
+What do you have to do? Well, not much.... just survive from being hit by 
+the swinging ball as long as you can. It slowly gets faster and some wind 
+will affect you too, so you have to counteract the wind  by pushing 
+left/right to stay on the podium.
+Jump with fire... you can double jump if that sort of thing floats yer 
+boat.
+
+Although not complete, you can still play it and try to beat your best scores, 
+but what's missing is:
+Front End,
+Tailored music/sfx,
+Animated water ripples/water fall,
+No highscore name entry.
+Oh, there was also going to be a little mini intro/bit of story... but meh.
+
+Code by me, bitmap by Vanja Utne, additional gfx by me and music (stand in) 
+is by MCH. (Cheesecat Groove is the tune).
+
+Free to download (or optionally donate). One for the retro heads.
+
+
+https://roysterini.itch.io/humpy64

@@ -1,0 +1,83 @@
+Athanor The Awakening (Converted for the Plus/4)
+by Megastyle
+2017/10/20
+
+
+Programming by Majikeyric
+Music arranged by Rotteroy
+Original graphics from the C64 version
+
+
+https://megastyle.itch.io/athanor-plus4
+
+CONTEXT
+
+Athanor takes place in the south of Italy in the 12th Century. You are playing as a Franciscan monk, sent by his 
+Holy order in order to make an inquiry in an abbey where suspect events have aroused many fears. You will lead 
+this inquiry in order to discover the mysteries lying within this abbey. Let your conscience be your guide and 
+you may discover greater secrets that you could have thought of.
+
+SYNTACTIC ANALYZER
+
+Playing through Athanor, you will have to type your orders such as :
+Verb + Noun
+(Example: Examine door, Search chest).
+
+In some cases, you may be allowed to use more specific commands such as :
+Examine left door.
+
+However, do try to respect a few rules :
+- Verb must be put in the infinitive form
+- The typed noun must be in the singular
+
+Some Basic languages are less powerful than others to analyze commands.
+You will also have access to special commands :
+- INVENT : display your inventory
+-  EXIT  : shows the different ways out of the current view
+- COMBINE or ASSEMBLE : this command allows you to combine an item with another one in order to create a new one
+(Example: combine rope1 rope2 bucket)
+
+OTHER ACCEPTED COMMANDS
+
+GO, MOVE, APPROACH
+EXAMINE, LOOK
+SEARCH
+CLOSE
+PICK UP, TAKE
+GIVE
+RING
+FOLLOW
+SPEAK TO, TALK TO
+THROW
+REMOVE, UNITE
+COMBINE, ASSEMBLE
+ENTER
+PRESS, PUSH, HIT
+ANSWER
+HANG, PUT
+USE
+LISTEN
+PULL
+OPEN
+GO UP, CLIMB
+WAIT, PRAY
+EMPTY
+SHOW
+
+You can also you use :
+- N or NORTH for GO NORTH
+- S or SOUTH for GO SOUTH
+- E or EAST  for GO EAST
+- W or WEST  for GO WEST
+MATERIAL CLUES
+
+Material clues occupy a major role in Athanor.
+
+Athanor contains the following clues :
+
+- 7 tile clues
+- 1 tile plan
+- 1 special clue with a numeric code
+- 1 final clue
+
+https://megastyle.itch.io/athanor-plus4
