@@ -1,0 +1,52 @@
+                        ~Shinobiden Zero~
+                    ::A Crappy 4kB C64 Game::
+                        Jul 03, 2018
+
+DISCLAIMER: This is my very first attempt at 8-bit hardware development, first 
+time using assembly ever, and only the second game project I've ever come
+close to completing. At least it works! (The assets will likely be reused for
+a legitimate RPG adventure title that is in planning.)
+
+BACKGROUND: You are Aomaru, or Ao-kun for short. You are a ninja -- or at least
+you're training to be one. One day while you were away from your home village,
+it was besieged by the undead! A particularly nasty one that goes by the name
+of Guy Kotsu is patrolling the mountains and woods searching for you -- to
+KILL YOU!
+
+As the surprisingly agile skeleton scrambles over mountains to remove your 
+entrails, you remember your training - by gathering all four of the Mystic
+Elemental Scrolls and returning them to your home, you can prepare the  magic
+that can exterminate the undead threat! Good luck, Aomaru!
+
+HOW TO PLAY: ***Use Joystick Port 2***
+Move the joystick to move Ao-kun and press fire to throw a shuriken. You can
+have three shurikens on-screen at a time. Hit Guy with the shurikens to stun
+him for a few brief moments. Be careful, sometimes he is barely stunned at all!
+Move to the edge of the screen to move to the next screen. Walk over scrolls
+to pick them up, once you find them. Once you have all four, return to the
+start position and walk over the town to win!
+
+If you are touched 3 times by Guy, you die and the game is over. Press fire to
+restart your console. A failed game over differs from the winning game over by
+being a black screen instead.
+
+Craptastic "features":
+-No VBlank! Saves a whopping 1kB of memory!
+-No game loop! Game overs conveniently restart your C64!
+-Only one enemy!
+-No title screen!
+-No music or sound!
+-Random stun duration!
+-Barely different killscreens for win or lose!
+-Inaccurate, sticky collision!
+
+Craptastic bugs:
+-Guy is invincible around x position ~255, but not to the left or right of it
+-Shurikens fly off into the gui at x>255
+-Clear screen subroutine doesn't quite clear the screen
+
+         ===---===---===---===
+All graphics and code (c)2018 by @_fou_lu
+         ===---===---===---===
+
+https://tekkamansoul.itch.io/shinobiden0

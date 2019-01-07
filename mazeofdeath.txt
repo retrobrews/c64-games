@@ -1,0 +1,25 @@
+Maze of Death 
+by Hamrath
+2018/12/10
+===
+Find your way through a dangerous maze where all walls are poisoned. To reach the exit you have to die - a lot! 
+Luckily you can collect your dead bodies to get back your lost live and continue your search for the right way to the exit.
+===
+This is my second C64 game for Ludum Dare. You have to find your way through a dangerous maze where all walls are poisoned. 
+To reach the exit you have to die - a lot! Luckily you can collect your dead bodies to get back your lost live and continue
+your search for the right way to the exit.
+
+Attention: You need a real C64 or an emulator like WinVICE to play this game. 
+
+Running on Windows
+---
+Download WinVICE from http://vice-emu.sourceforge.net/ and unpack the files in a folder of your choise. Copy everything 
+from the Commodore 64-zip (mazeofdeath.zip) into the WinVICE folder. Run start.bat to automatically run Maze of Death in the 
+emulator. Use numpad to play the game. If you prefer a gamepad go to Settings > Joystick settings > Joystick settings… 
+and select your gamepad from the select box of Joystick #2. In this dialog you can also create your personal control scheme.
+
+Running on other systems
+---
+Unfortunaly I can’t provide any help to make Maze of Death work on OSX or Linux. But steps should be similar.
+
+https://hamrath.itch.io/maze-of-death

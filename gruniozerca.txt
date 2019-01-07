@@ -1,0 +1,52 @@
+GRUNIOZERCA   C64
+
+Help Grunio, a guinea pig, eat all the carrots in this retro mini game for
+Commodore 64!
+
+Gruniozerca is a Commodore 64 version of NES/Famicom mini game released in
+2016. Both games were created to support Polish 24h charity games stream called
+Gramytatywnie.
+
+Use joystick connected to port 2 to move Grunio on the screen and catch all
+carrots before they touch the ground. Make sure Grunio's color match carrots'
+color when you catch them. You can change Grunio's color by pressing fire.
+
+
+. HOW TO RUN?
+
+This game was designed and created to run on a real hardware - Commodore 64
+or Commodore 128 in C64 mode - and is compatible with both PAL and NTSC
+versions. Keep in mind that the game was primarily created for PAL machines.
+
+Once diskette image is downloaded you could transfer it to a 5 & 1/4 inch
+floppy disk using any of the available solutions (like X1541 cable) or copy to
+the SD2IEC device.
+
+You can also run the game on any C64 emulator available for Windows, Mac and
+Linux that supports loading diskette images (like VICE).
+
+To load a game type  LOAD "*",8  and press return. After couple seconds when
+the system respond with  READY. type  RUN  and press return to start.
+
+
+. CHARITY
+
+This mini-game, similar to its NES/Famicom version, is provided to you for
+free. Please consider to support charities during annual Gramytatywnie 24h
+games streaming charity event.
+
+Head to http://gramytatywnie.pl and http://fb.me/Gramytatywnie/ to find out
+more information.
+
+Gramytatywnie is organized by http://arhn.eu
+
+
+Credits
+ * a game by Lukasz Kies
+ * original NES/Famicom version by Lukasz Kur & Ryszard Brzukala
+ * Grunio as himself
+
+Copyright (c) 2017 6bits
+
+https://twitter.com/6bits_eu
+https://6bits.itch.io/gruniozerca

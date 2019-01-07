@@ -1,0 +1,13 @@
+WTF (Reset64 4KB Craptastic game competition entry)
+Title 		: WTF
+Created by 	: Misfit
+2018/06/27
+
+Warner Thomas Fahrenheit is a stupid ball. 
+You have to help him and show the way to the goal (that blinking black box).
+Use your joystick and scroll the screen. Warner tries to follow.
+
+If you push the joystick longer Warner jumps higher. 
+Small push means smaller jumps. Warner's favourite place is the center of the screen.
+
+https://misfit.itch.io/wtf-4k

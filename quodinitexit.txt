@@ -1,0 +1,162 @@
+QUOD INIT EXIT
+by RETREAM
+2018/10/23
+
+https://retream.itch.io/quod-init-exit
+____________________________________________________________________________________________
+END-USER AGREEMENT
+
+DEFINITIONS - In this agreement "Software" refers to any and all files constituting the game 
+QUOD INIT EXIT and its accessory utilities and data.
+
+RIGHTS AND RESTRICTIONS - You can redistribute the Software only at no charge and in unmodified 
+form. You cannot use (any part of) the Software for profit.
+
+DISCLAIMER - THE SOFTWARE IS PROVIDED "AS-IS", WITHOUT ANY WARRANTY. TO THE FULLEST EXTENT 
+ALLOWED BY LAW, THE AUTHOR CANNOT BE HELD LIABLE FOR ANY DAMAGE ARISING OUT OF THE (INABILITY 
+OF MAKING) USE OF IT. USE AT YOUR OWN RISK.
+
+GOVERNING LAW AND JURISDICTION - This agreement shall be governed by the laws of the country 
+of residence of the author at the time of the dispute. The author reserves the right to appoint 
+the venue for the dispute.
+
+EPILEPSY WARNING - Some people are susceptible to epileptic seizures when exposed to certain 
+flashing lights or light patterns, and they may even be unaware of it. The Software may cause 
+problems to such people. Who experiences blurred vision, dizziness, disorientation, loss of 
+consciousness, twitches, involuntary movements, convulsions while playing/watching the 
+Software must stop doing so immediately and receive the due medical assistance.
+____________________________________________________________________________________________
+
+INTRODUCTION
+
+Everybody has their own philosophy of life. Zampo's is: "whatever goes in, comes
+out". There's no changing your dear friend's mind. You care about him, and so
+you tried in all possible ways.
+
+"C'mon, don't over do it!" - you told him. And he answered: "No worries:
+whatever goes in, comes out".
+Some other time you tried with "You can't think about that - and only that - all
+the time", yet the reply you got was always the same: "No worries: whatever goes
+in, comes out".
+Going for a dramatic "It will kill you!" only succeeded in making the inevitable
+"No worries: whatever goes in, comes out" resound even more profoundly in your
+ears.
+The last time you tried, he stared back at you, spoke those foolish words once
+again, strengthened the blow with "Remember", and finally added, with all the
+solemnity of a Roman emperor: "QUOD INIT EXIT".
+
+"If you can't beat them, join them", they say. And, indeed, there's nothing
+else you can do. So now you're by his side in his ravenous quest...
+
+
+GETTING STARTED
+
+Put the D64 image on the desired media, and load and run the game as per usual.
+The game supports both joystick (port 2) and keyboard input.
+
+
+CONTROLS - TITLE SCREEN
+
+joystick  keyboard   action
+------------------------------------
+[FIRE]    [SPACE]    start new game
+          [RESTORE]  return to BASIC
+
+CONTROLS - GAME
+
+joystick  keyboard   action
+--------------------------------------------------------------------------
+[UP]      [W]        jump
+[LEFT]    [A]        move left
+[RIGHT]   [D]        move right
+[FIRE]    [SPACE]    turbofart / exit game over screen
+          [F1]       pause/unpause
+          [RESTORE]  abort
+
+
+CONTROLS - HISCORE SCREEN
+
+joystick keyboard action
+------------------------------------------------
+[UP]     [W]      select previous letter
+[DOWN]   [S]      select next letter
+[LEFT]   [A]      pass to character on the left
+[RIGHT]  [D]      pass to character on the right
+[FIRE]   [SPACE]  confirm and exit
+
+
+HUD
+
+The HUD is displayed in the bottom-center of the screen, and shows (from left to
+right):
+ * the current level;
+ * the points countdown;
+ * the belly satisfaction meter;
+ * the toilet roll indicator;
+ * the pill indicator;
+ * the turbofart indicator.
+
+
+GAMEPLAY
+
+Each level starts with Zampo located in the center of the play area, which is
+made of a number of platforms arranged in a unique way.
+Zampo can:
+ * run on the platforms;
+ * jump onto upper platforms;
+ * descend to lower platforms through the gaps in the platforms themselves;
+ * dash briefly thanks to the turbofart.
+
+Zampo needs to eat/drink constantly to avoid starvation and to reach full
+satisfaction. Zampo's satisfaction is indicated by the belly satisfaction meter.
+It decreases steadily (the higher the level, the faster the decrease rate) and,
+if it depletes entirely, it triggers the game over. When the belly satisfaction
+meter is maxed out, a toilet zips across on a platform other than the one which
+Zampo is on: Zampo has to catch it before it disappears in order to complete
+the level. If the toilet is missed, the game is over.
+
+Food, drinks, and other items zip across horizontally on the platforms. Catching
+them produces a different effect depending on the kind of the item caught:
+ * food/drink item: increases the belly satisfaction meter by 1 snout;
+ * poison vial: decreases the belly satisfaction meter by 1 snout, but also
+   awards the turbofart;
+ * pill: provides protection against the bad effects of the next poison vial
+   that will be caught;
+ * clock: halts the items, the belly satisfation meter, and the score countdown
+   for 5 seconds;
+ * toilet roll: allows Zampo catch the last food/drink item needed to max out
+   the belly satisfaction meter.
+
+
+SYSTEM INFORMATION
+
+Minimum requirements: PAL C64 computer (disk version: + 1541 drive)
+Recommended devices: joystick
+Compatibility: any SID chip (disk version: + 1541 drive emulators, sd2iec
+devices, fast loaders)
+
+
+TRIVIA
+
+QUOD INIT EXIT is based on a very complex joke among the author and a circle of
+his friends. When the first version was completed, it was given as a birthday
+present to the guy who invented "Tutto ciò che entra, esce" (the Italian
+equivalent of "Quod init exit", which, in turn, is the Latin for "Whatever goes
+in comes out").
+QUOD INIT EXIT has a sequel that provides extra (eating) fun: QUOD INIT EXIT IIm
+(https://www.retream.com/QUOD_INIT_EXIT_IIm) - check it out!
+
+
+
+CREDITS
+
+design/code/graphics/artwork/manual - Simone Bevilacqua
+music - Richard Bayliss
+(disk version: fast loader - Lasse Öörni)
+
+
+---
+
+www.retream.com/QUOD_INIT_EXIT
+quod_init_exit@retream.com
+© 2010 RETREAM

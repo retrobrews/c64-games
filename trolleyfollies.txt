@@ -1,0 +1,21 @@
+Trolley Follies
+by blackcastle
+Published	Jun 13, 2018
+Player count	1 - 2
+
+A downloadable game for Windows, macOS, Linux, and Android
+
+Trolley Follies is a game for the Commodore 64 (or emulator such as VICE) for one or two players. 
+The object is to drive a trolley around picking up passengers and delivering them to their destinations. 
+The track layouts get increasingly convoluted and confusing as the levels progress. 
+
+Passengers are impatient and your score will be determined by how happy they are when you drop them off, their happiness is determined by how long they had to wait.
+Passengers left waiting at platforms for too long will leave and that will actually hurt your score.  
+There is a time limit for each level as well as a minimum required score you must achieve before the exit to the next level is opened.  
+If there is time remaining you may continue to pick up and drop off passengers after the exit is open to increase your score.    
+Your highest score for the level will be recorded in a high scores file and the next time you play that level you will need to exceed your previous best to progress.  
+Although this feature may be disabled and you can choose to reset the high scores file from the main menu.
+Also included is a level editor so that you can create new levels.
+
+https://blackcastle.itch.io/trolley-follies
+https://blackcastle.itch.io/trolley-follies/devlog/37313/trolley-follies-initial-itchio-release
