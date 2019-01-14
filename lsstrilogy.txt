@@ -1,0 +1,36 @@
+Little Sara Sister Trilogy (C64 - Tape)
+by Ice Team
+Published	Dec 26, 2017
+
+https://iceteam.itch.io/little-sara-sister-trilogy-c64-tape
+
+
+
+Little Sara Sister Trilogy is a Commodore 64 game developed by Ice Team in collaboration with Hokuto Force and released by FlimSoft back in 2013 as Floppy Disk.
+
+This is the Tape version that was ready to be mastered before FlimSoft stop the activity.
+
+Little Sara Sister Trilogy is composed by three games:
+
+    Little Sara Sister
+    Little Sara Sister 1.5
+    Little Sara Sister 2
+
+You have about 50 locations to explore (caves, Antarctica, Egyptian Pyramid...)
+
+You can choose the game to start from a menu while loading the game.
+
+The game is PAL/NTSC compatible.
+
+A Little Sara Sister Construction Kit is  available on https://iceteam.itch.io/lss-game-contruction-kit so you will be able to make your own C64 game!
+
+
+Welcome.
+
+In order to play the game on real hardware you need to master the image onto a tape.
+
+If you want to play it in an emulator, just download VICE (http://vice-emu.sourceforge.net/) then run X64, attack the provided tape image (LSS_TRILOGY.TAP), put joystick in port 2 and enjoy the game.
+
+You can write to iceteam@altervista.org in case of problems.
+
+Thanks

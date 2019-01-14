@@ -1,0 +1,16 @@
+MArkanoid
+by Ice Team
+2003/09/29
+Published	Jul 29, 2018
+
+https://iceteam.itch.io/little-sara-sister-trilogy-c64-tape
+
+
+
+Markanoid is a Commodore 64 game developed by Ice Team released in 2003 for the 4KB Minigame Competition where it reached the 6° position.
+
+The game has 14 levels, powerups and music even if it has a size of only 4KB .
+
+Source code is inside the download file.
+
+Use joystick in port 1 and possible a 8580 sid chip.

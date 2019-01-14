@@ -1,0 +1,77 @@
+Elav:
+4KB minigame
+by Stefano Tognon
+(C) 2006 Ice Team
+version 1.00
+https://iceteam.itch.io/elav-c64
+
+Well, this game is also dedicated to my young friend
+This is my 11th game for C64
+
+Music created and composed by Nata
+Bug fixes and size reduction by iAN CooG/HokutoForce
+
+CONCEPT:
+A Rampage clone
+
+BACKGROUND:
+I find alway difficult to pass screen in Rampage, but I like it. So I try to make a more playable version
+
+INSTRUCTIONS:
+Put Joystick in port 2
+Use SID 8580 
+
+Movement:
+ LEFT:       goes left
+ RIGHT:      goes right
+ UP:         climb up (you may be near the buildings, but not between it)
+
+when climbed at LEFT side:
+ RIGHT       damage a wall 
+ FIRE+RIGHT: damage a window/door
+ LEFT        jump down
+
+when climber at RIGHT side
+ LEFT        damage a wall 
+ FIRE+LEFT:  damage a window/door
+ RIGHT       jump down
+
+
+You have to destroy all the buildings to pass the level.
+You lose a live if you are not able to make this in 99 seconds.
+There are 10 levels to pass for winning.
+Note that somethimes there is a gun that fly and that can let you lose a live..
+... and a running running object ... maybe a 'live' object ...
+
+TECNIQUES:
+* An actor is made by 2 multicolor sprites: the upper part and the lower part.
+* Another 2 sprites are used for damage action
+* Sprites were painted as usual using the Andrew Colin's BASIC sprites program
+  and Gimp
+* Chars were created using my LSS2 map editor.
+
+
+OPTIMIZATIONS:
+Here are some steps taken:
+* Sprites are defined for the left actor only. The ones for the right are
+  calculated at runtime by mirroring the others. Note that we mirror multicolor
+  sprites, not siglecolor ones. 
+* Screen at $0400 and color at $D800 are precalculated and put as 2KB of data
+  into the source. Belive or not, Exomizer compress them a lot as they are
+  like all equal (unfortunately they have to be relocated to the right
+  position as Exomizer actually doesn't manage that address directly)
+* Redefined chars are already at the right place and are not to be relocated
+* The music is processed by TINY and the bytes of player never used are filled
+  with 0
+
+note: there is a bonus stereo version of the tune in this pack: use second sid 
+at address D420
+
+THANKS:
+Thanks to all the authors of tools I used to make this game:
+Vice, Exomizer, Dasm.
+
+http://ready64.altervista.org/forum/index.php?showtopic=1256&st=60
+
+Look for all the Ice Team release (always with source) at:
+http://digilander.iol.it/ice00
