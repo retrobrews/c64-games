@@ -5,6 +5,7 @@ Homebrew Commodore 64 games:
  - <b>Athanor The Awakening [C64]</b> by Megastyle
  - <b>Bapple-Ships [C64]</b> by Cout Games
  - <b>Captain Cloudberry [C64]</b> by Megastyle
+ - <b>Elav [C64]</b> by Ice Team
  - <b>Exploding Fish [C64]</b> by Megastyle
  - <b>Find The Pussy [C64]</b> by Cout Games
  - <b>Gruniozerca [C64]</b> by 6bits (Lukasz Kies)
@@ -13,8 +14,10 @@ Homebrew Commodore 64 games:
  - <b>Humpy64 [C64]</b> by Roysterini
  - <b>Lights Off [C64]</b> by Cout Games
  - <b>Lights On [C64]</b> by Cout Games
+ - <b>Little Sara Sister Trilogy [C64]</b> by Ice Team
  - <b>Lumberjack 4k [C64]</b> by Megastyle
  - <b>Magic Squares [C64]</b> by Cout Games
+ - <b>Markanoid [C64]</b> by Ice Team
  - <b>Maze Of Death [C64]</b> by Hamrath
  - <b>Monster Hunt [C64]</b> by Cout Games
  - <b>Moon Rock [C64]</b> by Cout Games
@@ -35,6 +38,7 @@ Homebrew Commodore 64 games:
  - <b>Trolley Follies [C64]</b> by BlackCastle
  - <b>Warner Thomas Fahrenheit (WTF) [C64]</b> by Misfit
  - <b>Winky Blinky [C64]</b> by Roysterini
+
 
 *Note: The ROMs listed here have been approved for free distribution on this site/project only. If you want to share it, please contact owner/developer. Thanks!
 
