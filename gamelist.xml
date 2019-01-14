@@ -49,6 +49,18 @@
      <players>1</players>
    </game>
    <game>
+     <path>./elav.prg</path>
+     <name>Elav [C64]</name>
+     <desc>This is born for being a Rampage clone with only 4KB of space (using music too), so with a space that is less than a 1/10 of normal C64 game. You have to destroy all the buildings to pass the level. You lose a live if you are not able to make this in 99 seconds.You have 10 levels to clean from the buildings.</desc>
+     <image>./elav.png</image>
+     <rating>0</rating>
+     <releasedate>20060816T000000</releasedate>
+     <developer>Ice Team</developer>
+     <publisher>HOMEBREW ROM</publisher>
+     <genre>Elav [v.1.00]</genre>
+     <players>1</players>
+   </game>
+   <game>
      <path>./explodingfish.d64</path>
      <name>Exploding Fish [C64]</name>
      <desc>The evil Doctor Drax has been busy, dropping bombs onto the protected reefs. Take control of Diver Dougal. Dive deep, defuse bombs, avoid nasties... and watch out for alien artefacts! Collect all the encryption keys in order to access and defuse the bombs. Better watch out for the sea life though... Those creatures really hate intruders! So set sail on the - Unsinkable 2- and make the sea a safer place.</desc>
@@ -145,6 +157,18 @@
      <players>1</players>
    </game>
    <game>
+     <path>./lsstrilogy.tap</path>
+     <name>Little Sara Sister Trilogy [C64]</name>
+     <desc>Little Sara Sister Trilogy is composed by three games: Little Sara Sister 1, Little Sara Sister 1.5 and Little Sara Sister 2. You have about 50 locations to explore (caves, Antarctica, Egyptian Pyramid...). You can choose the game to start from a menu while loading the game.</desc>
+     <image>./lsstrilogy.png</image>
+     <rating>0</rating>
+     <releasedate>20171226T000000</releasedate>
+     <developer>Ice Team</developer>
+     <publisher>HOMEBREW ROM</publisher>
+     <genre>Little Sara Sister Trilogy</genre>
+     <players>1</players>
+   </game>
+   <game>
      <path>./lumberjack.d64</path>
      <name>Lumberjack 4k [C64]</name>
      <desc>Rip off your grey and boring suit and reveal the red flannel shirt you are hiding under you clothes. Let your beard grow and equip yourself with a big axe and enter the woods. Just admit it, You've always wanted to be a LUMBERJACK!This is your chance to turn your dreams into reality. Enter the forest and start chopping wood, but beware of the branches, if they hit you - they will kill you!Plug your joystick in port 2. Use firebutton to start a new game. Move your joystick to the left or right to chop.By moving left you will chop on the left side, and by moving right you will chop on the right side.</desc>
@@ -166,6 +190,18 @@
      <developer>Cout Games</developer>
      <publisher>HOMEBREW ROM</publisher>
      <genre>Magic Squares</genre>
+     <players>1</players>
+   </game>
+   <game>
+     <path>./markanoid.prg</path>
+     <name>MArkanoid [C64]</name>
+     <desc>The player controls the "Vaus", a space vessel that acts as the game's "paddle" which prevents a ball from falling from the playing field, attempting to bounce it against a number of bricks.  The game has 14 levels, powerups and music even if it has a size of only 4KB.</desc>
+     <image>./markanoid.png</image>
+     <rating>0</rating>
+     <releasedate>20030929T000000</releasedate>
+     <developer>Ice Team</developer>
+     <publisher>HOMEBREW ROM</publisher>
+     <genre>MArkanoid</genre>
      <players>1</players>
    </game>
    <game>
