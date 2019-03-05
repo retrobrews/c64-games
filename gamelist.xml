@@ -241,6 +241,18 @@
      <players>1</players>
    </game>
    <game>
+     <path>./nanakoincastle.d64</path>
+     <name>Nanako in Classic Japanese Monster Castle [C64]</name>
+     <desc>In this game you control Nanako. The game consists on 25 levels, each one representing one of the floors in the tower. In each one, to reach the following level you have to literally build up your path to the top of the screen. This can be managed with Nanako's ability to carry boxes (only one at a time) and drop them elsewhere. In each screen you'll find a Karakasa which sometimes will cause real trouble. Nanako is able to walk over a still Karakasa, but if it eventually moves Nanako could fall from its top and be caught by it, losing a valuable life. To be able to use a Karakasa as a stand to jump and reach higher is decisive in some of the levels. Another useful thing Nanako is able to do is to release a box in mid air, during a jump, causing the box to appear where she is and stay in the middle of the air. It's very important to master the ability to drop the box in the highest point of a jump, gaining fast access to upper levels. At the beginning of each levels a password is given (using the Kun alphabet) which we can use to access directly to that level instead of having to start over once and again. Use LEFT/RIGHT/UP/DOWN to write the password and JUMP to validate it.</desc>
+     <image>./nanakoincastle.png</image>
+     <rating>0</rating>
+     <releasedate>20101101T000000</releasedate>
+     <developer>Mojon Twins</developer>
+     <publisher>HOMEBREW ROM</publisher>
+     <genre>Nanako in Classic Japanese Monster Castle</genre>
+     <players>1</players>
+   </game>
+   <game>
      <path>./numtrap.prg</path>
      <name>NumTrap [C64]</name>
      <desc>Trap the number by guessing a low and high number.</desc>
@@ -373,6 +385,18 @@
      <players>1</players>
    </game>
    <game>
+     <path>./sirababol.d64</path>
+     <name>Sir Ababol [C64]</name>
+     <desc>Control Sir Ababol accross the Monegrian fields and gather 25 ababol flowers. To be able to progress in your journey you'll need some keys you will be able to use to open several doors to gain access to different sections. Once you have gotten 25 ababol flowers, your mission will be over. Avoid touching the monster wandering around the place, and the water, which is evil. You can regain some lost breath eating some magical legs of monegros' fried chicken which you will find scattered around the already visited screens.</desc>
+     <image>./sirababol.png</image>
+     <rating>0</rating>
+     <releasedate>20121201T000000</releasedate>
+     <developer>Mojon Twins</developer>
+     <publisher>HOMEBREW ROM</publisher>
+     <genre>Sir Ababol</genre>
+     <players>1</players>
+   </game>
+   <game>
      <path>./snafu.d64</path>
      <name>Snafu [C64]</name>
      <desc>SNAFU '64 is a classic snake trap game where you must direct your snake so that it always has room to keep moving freely. At the same time, try to block your opponents so that they are forced into a collision. If a snake collides with the edge of the picture, with an obstacle, with another snake or with part of itself, it is killed and eliminated from the round.</desc>
@@ -419,6 +443,18 @@
      <publisher>HOMEBREW ROM</publisher>
      <genre>Trolley Follies</genre>
      <players>1-2</players>
+   </game>
+   <game>
+     <path>./uwolquestformoney.d64</path>
+     <name>Uwol, Quest for Money [C64]</name>
+     <desc>The game is about to steal the most amount of coins possible. Uwol won't want to end his mission until he collects a minimum of 255 of those. The manor rooms are arranged like a pyramid, starting from the very top, and after you clean a room of coins you will be given the chance to choose which path (left or right) to take. You select a path walking over one of the arrows which appear and pressing DOWN. If you get to the bottom of the pyramid and you haven't gathered enough coins you get back to top and start over. This time, you should choose another path 'cause the already visited rooms will be empty. Use the pyramid map to know which rooms are visited and which aren't. You have three enemies which follow pretty linear paths, but once the time ends one of them will summon Fanty which will chase you relentlessly all accross the screen. During gameplay, if you touch a baddie you'll lose your clothes. Look for a tee-shirt nearby, otherwise you'll die on the next touch by a baddie. When you get a certain ammount of points, you'll be rewarded with an extra life.</desc>
+     <image>./uwolquestformoney.d64</image>
+     <rating>0</rating>
+     <releasedate>20091201T000000</releasedate>
+     <developer>Mojon Twins</developer>
+     <publisher>HOMEBREW ROM</publisher>
+     <genre>Uwol, Quest for Money</genre>
+     <players>1</players>
    </game>
    <game>
      <path>./winkyblinky.prg</path>
