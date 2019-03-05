@@ -1,0 +1,158 @@
+Uwol, Quest for Money C64 (Mojon-Twins--Uwol-C64.d64)
+by Mojon Twins
+2009/12/01
+http://www.mojontwins.com/juegos_mojonos/uwol-quest-for-money-c64/
+
+Un juego de The Mojon Twins / A game by The Mojon Twins
+
+Diseñado por / Designed by: anjuel & na_th_an
+Argumento / Story: David Pimperl Marco
+Código / Code: Woodmaster
+Gráficos C64 / C64 Graphics: na_th_an
+Pantalla de carga / Loading screen: na_th_an
+Música SID / SID Music: Conrad
+
+Música Original / Music Composer: Augusto RUiz
+Editor de niveles / Developing tools: Augusto Ruiz
+Niveles y soporte / Levels and support: Augusto Ruiz, anjuel, na_th_an, kendroock, daivod, dadman, t.brazil, ivanZX, benway, sejuan, konamito, danthalas, metalbrain, zemman
+
+Disclaimer: si alguien ha creado niveles y no se ve reflejado en la lista, por favor, que nos lo diga y lo incluimos. Disculpad las molestias si se da el caso.
+
+Dedicado a / Dedicated to: Hannibal Smith, Templeton Peck, M.A. Barracus, H.M. Murdock
+
+Historia / Story
+
+Uwol, no contento con cosechar el 90% de todos los ingresos por retrovideojuegos de España y hacerse rico, quiere revivir las aventuras de sus antiguos ídolos a la vez que sigue engrosando sus arcas, ya que esa es la razón primera de su existencia.
+
+Tras atesorar preciados trofeos siguiendo los pasos de sus héroes preferidos de videojuegos clásicos (El Fuego que no Quema (que le viene divinamente para el recibidor), una pistola de protones con su cargador de iones, tres braguitas de Gremla, la chequera de Willy, el pijama de Wally, la Espada del Poder (la falsa, que la verdadera está en uso), un montón de café Saimaza …), se entera de que un misterioso y excéntrico millonario, otrora ladrón, esconde en una vieja mansión cercana al Bosque de los Canutos (la conocida como Storm Palace) un porrón de monedas de oro, y decide emular a su gran ídolo Goody y birlárselas…
+
+El tema es que no va a ser demasiado fácil… Los sótanos del Storm Palace son profundos y están llenos de recovecos. Por si no fuera esto suficiente, la intricanda disposición de las antiquísimas cámaras hace que no sea difícil perderse, errar el camino y encontrarse otra vez en el punto de partida. Eso fue lo que le pasó a Uwol: el ser el tío más ambicioso del universo le jugó una mala pasada y por querer adentrarse más y más en el palacio para encontrar más y más monedas terminó al fondo del laberinto… Un laberinto en el que habitan Vampy, Franky, Fanty y Wolfy, que intentarán por todos los medios que Uwol no se lleve ni un duro.
+
+Uwol didn’t have enough after earning about the 90% of all the income which resulted of selling retrovideogames in Spain and getting himself rich. Now he wants to experience the adventures of his good old idols while he keeps engrossing his bank account, ‘cause that’s the very matter of his existence.
+
+After gathering precious prizes following the steps of his favourite classic videogame heroes (this is, the fire which doesn’t burn -which looks great in the hall of his house-, the proton pistol with the proton charger, three knickers from Gremla, the book of bills of Miner Willy, Wally’s pajamas, the Sword of Power (just a copy, ‘cause the real one is in use), heaps of Saimaza coffee…), he learns that a mysterious and excentric millionaire, formerly a thief, hides quite a big fortune in gold coins in a very old manor next to Canutos Forest -the so-called Storm Palace. So he decides to emulate his idol Goodie and steal them!
+
+The problem is that it won’t be very easy… The cellar of Storm Palace are quite deep and are full of nooks and crannies. Besides, the intrincate disposition of rooms makes it very easy to get lost and go back to the starting point. That’s what happened to Uwol: his greed made him to get deeper and deeper into the manor so he got lost and trapped in the lowest labyrinth, inhabited by Vampy, Franky, Fanty and Wolfy, who will try by all means to make Uwol fail in his task.
+El Juego / The Game
+
+El objetivo del juego es robar todas las monedas posibles, hasta un mínimo de 255 que te permitirán salir de la mansión. Dicha mansión es piramidal, y en cada nivel, al coger todas sus monedas, te dirá que elijas camino. Te pones encima de la flecha y pretas abajo. Así de simple.
+
+Hay cuatro zonas a explorar: entrada de la casa, laboratorios, habitaciones, sótano. Notarás que estás en cada una de ellas porque cambia el fondo.
+
+Si has llegado al final de la pirámide y no tienes las monedas necesarias, ya se sabe, la codicia es lo que tiene… deberás empezar de nuevo. Pero, ojo! en los niveles por los que ya has pasado no hay monedas! te servirán de tránsito hacia otros niveles que no hayas explorado.
+
+Tienes 3 enemigos que se mueven en horizontal (Franky, Vampy y Wolfy) más uno sorpresa que aparece cuando se te acaba el tiempo y que te persigue por todo el escenario: el temible Fanty.
+
+Durante el juego, si tocas un enemigo te quedarás en pelotas. Es lo que hemos llamado “Uwol Pelotingui”. Corre a buscar una camiseta que si no al siguiente toque la palmas.
+
+Una cosa sobre el salto y el movimiento. Cuanto más pretes el salto, más saltas. Además, tienes inercia… así que cuida cómo te mueves.
+
+AH! se nos olvidaba. Al ganar “cierto” número de puntos, te daremos una vida extra. Somos así de generosos. ??
+
+The game is about to steal the most amount of coins possible. Uwol won’t want to end his mission until he collects a minimum of 255 of those. The manor rooms are arranged like a pyramid, starting from the very top, and after you clean a room of coins you will be given the chance to choose which path (left or right) to take. You select a path walking over one of the arrows which appear and pressing DOWN.
+
+If you get to the bottom of the pyramid and you haven’t gathered enough coins you get back to top and start over. This time, you should choose another path ‘cause the already visited rooms will be empty. Use the pyramid map to know which rooms are visited and which aren’t.
+
+You have three enemies which follow pretty linear paths, but once the time ends one of them will summon Fanty which will chase you relentlessly all accross the screen.
+
+During gameplay, if you touch a baddie you’ll lose your clothes. Look for a tee-shirt nearby, otherwise you’ll die on the next touch by a baddie.
+
+When you get a certain ammount of points, you’ll be rewarded with an extra life.
+Controles / Controls
+
+Este juego se controla usando un joystick en el puerto 2.
+
+This game is controlled using a joystick on port 2.
+
+FX Wood el rápido / FX Wood the quick
+
+Woodmaster ha realizado la conversión en tiempo récord. ¡Aún estamos despeinados!
+
+Woodmaster has coded this conversion in record time. Our hair is still undone!
+
+______________________________________________________________________________________________________________________________________________________________________________________________________________________
+
+
+Licencia
+A continuación os indicamos a qué tenéis que ateneros al usar MK2 o cualquiera de nuestros engines (salvo MK1/La Churrera – Para la licencia de este producto consultar su página http://www.mojontwins.com/juegos_mojonos/la-churrera/) o códigos fuentes, o al utilizar gráficos, ideas, argumentos, personajes, músicas, sonidos, ilustraciones, etc… es decir: TODA NUESTRA OBRA CREATIVA. Gracias a nuestro amigo Marco Fernández por la traducción al inglés.
+
+Todo el contenido de la web, toda nuestra obra creativa, incluido el código fuente está bajo licencia Creative Commons 3.0 “by-nc-ca”, o sea, “Reconocimiento-NoComercial-CompartirIgual 3.0 Unported (CC BY-NC-SA 3.0)”
+
+http://creativecommons.org/licenses/by-nc-sa/3.0/
+
+http://creativecommons.org/licenses/by-nc-sa/3.0/deed.es_ES
+
+Esto significa que eres libre de:
+
+– Copiar, distribuir y comunicar públicamente la obra.
+– Transformar la obra.
+– Crear productos derivados de la obra.
+
+Bajo las siguientes condiciones:
+
+Reconocimiento — Debes reconocer los créditos de la obra de la manera especificada por los Mojon Twins (pero no de una manera que sugiera que tiene su apoyo o apoyan el uso que hace de su obra). En este caso, sólo te pedimos que incluyas el texto “Powered by La Churrera” o “Powered by MK2” (según aplique) o incluyas el logo que incluimos en el archivo logo.png en la pantalla de carga y la portada del güego.
+
+No comercial — No puede utilizar esta obra para fines comerciales.
+
+Compartir bajo la misma licencia — Si altera o transforma esta obra, o genera una obra derivada, sólo puede distribuir la obra generada bajo una licencia idéntica a ésta.
+
+Entendiendo que:
+
+Renuncia — Alguna de estas condiciones puede no aplicarse si se obtiene el permiso explícito de los Mojon Twins.
+
+Aviso — Al reutilizar o distribuir la obra, tiene que dejar bien claro los términos de la licencia de esta obra.
+
+En resumen
+
+– Los güegos que hagan deben lanzarse bajo una licencia CC equivalente. Si quieres lanzar los güegos bajo otro tipo de licencia, debes hablar con nosotros y pedir permiso. Esto incluye especialmente la elaboración de copias físicas (ver más abajo).
+
+– Debes incluir “Powered by la Churrera” o “Powered by MK2” o “Powered by NOMBRE-DEL-ENGINE” según aplique, o el logo correspondiente en pantalla de carga y portada. No te cuesta ningún trabajo y nos beneficiamos todos.
+
+Sobre las copias físicas
+
+– Copias físicas privadas: Puedes grabar un juego en una cinta, cd, dvd, disquete o cartucho para tu disfrute propio.
+– Copias físicas promocionales: Puedes grabar un juego en una cinta, cd, dvd, disquete o cartucho y regalarlo a tus amigos corriendo tú personalmente con todos los gastos.
+– Copias físicas para vender (incluye recompensas en crowdfundings y cualquier otra actividad que implique un intercambio económico): Depende del producto pero, en cualquier caso, lo mejor es preguntar.
+License
+
+You must observe the terms below when using MK2 or any of our engines or source code (save for MK1/la Churrera; read more at http://www.mojontwins.com/juegos_mojonos/la-churrera-english/ ), or when using our graphics, ideas, storylines, characters, music, sounds, illustrations, etc., i.e. ANY OF OUR CREATIVE WORK
+
+All the content on this site, and all of our creative work, including source code, are licensed under Creative Commons 3.0 Attribution-NonCommercial-ShareAlike 3.0 Unported (CC BY-NC-SA 3.0.)
+
+https://creativecommons.org/licenses/by-nc-sa/3.0/
+
+This means you can freely:
+
+– Copy, distribute and transmit our work.
+– Transform our work.
+– Create products derived from our work.
+
+You may do so under the following terms:
+
+Attribution — You must attribute the work in the manner specified by the Mojón Twins (but not in any way that suggests that they endorse you or your use of the work.) In this case, we only ask that you include the text “Powered by La Churrera” or “Powered by MK2” (as applicable) or that you include the logo included in the file logo.png in the game’s loading screen and cover art.
+
+NonCommercial — You may not use this material for commercial purposes.
+
+Share Alike — If you alter or transform this work, or generate any work derived from it, you can only distribute your derived work under a license identical to this one.
+
+Understanding that:
+
+Disclaimer — Some of these conditions may not be applicable if you obtain explicit permission from the Mojón Twins.
+
+Notice — When reusing or distributing the work, you need to clearly specify the terms in its license.
+
+In a nutshell
+
+– The games you make must be released under an equivalent CC license. If you want to release your games under a different kind of license, you must contact us to get permission. This applies specially to the manufacturing of physical copies (see below.)
+
+– You must include “Powered by la Churrera” or “Powered by MK2” or “Powered by ENGINE-NAME” as applicable, or the corresponding logo on the loading screen and cover art. This is easy for you, and will benefit all of us.
+
+About physical copies
+
+– Private physical copies: You may record a game on tape, CD, DVD, floppy disk or cartridge for your own personal use.
+– Promotional physical copies: You may record a game on tape, CD, DVD, floppy disk or cartridge to give away to your friends paying for all expenses yourself.
+– Physical copies for sale (including crowdfunding rewards and any activity involving economic transactions): It depends on the product, but in any case, the best practice is always give us a shout and ask.
+
+______________________________________________________________________________________________________________________________________________________________________________________________________________________
+
+http://www.mojontwins.com/juegos_mojonos/uwol-quest-for-money-c64/

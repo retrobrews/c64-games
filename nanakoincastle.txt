@@ -1,0 +1,150 @@
+Nanako in Classic Japanese Monster Castle C64 (Inside--Nanako-in-Classic-Japanese-Monster-Castle--C64.d64)
+by Mojon Twins
+2010/11/01
+http://www.mojontwins.com/juegos_mojonos/nanako-in-classic-japanese-monster-castle-c64/
+
+Nanako in Classic Japanese Monster Castle C64
+
+Diseño/Design: Mojon Twins
+Programa/Code: Wood
+Gráficos/GFX: Almighty God & na_th_an
+Sonido/SFX: Linus & Twoflower
+Portada/Cover Art: Pagantipaco
+
+(c) 2010 Inside & The Mojon Twins
+Historia / Story
+
+Mya, aprendiz de bruja y hermana menor de Nanako, decidió por cuenta propia saltarse todas las normas de palacio y, desobedeciendo las ordenes de su mentor, se encaminó sola hacia la torre Heún buscando ampliar sus conocimientos en artes ocultas.
+
+La vieja torre, rodeada de un halo mágico que nadie sabía quién había tejido, estaba poblada por toda una legión de karakasa entre multitud de otros tzukogami (objetos inanimados que toman consciencia al cumplir los 100 años de edad). Por lo general, no se trata de seres hostiles o malvados, pero, la forma de Mya de irrumpir en la torre los hizo montar en ira y volverse muy peligrosos. La pobre Mya se refugió en lo más alto de la torre, incapaz de atreverse a bajar los 25 pisos para volver a casa, sobreviviendo a duras penas durante semanas enteras.
+
+Nanako, preocupada por la desaparición de su hermana, investigó un poco y pronto descubrió una debil pista que la llevó a la vieja torre. Su conexión mentálica con Mya hizo el resto. Con paso firme, Nanako se dispuso a entrar en la torre Heún para rescatar a su hermana. Sólo debía encontrarla para que, usando el poder de ambas, pudieran establecer una conexión directa con el poblado y teletransportarse a un lugar seguro… ¡El problema era esquivar a todos esos karakasa para llegar a Mya!
+
+Mya, witch apprentice and Nanako’s younger sister, decided to break all rules in palace and, disobbeying his mentor’s orders, parted away to Heún Tower to improve her knowledge in dark magic.
+
+The old tower, surrounded by a magic halo knitted by God only knows who, was populated by a whole army of karakasas among a multitude of other kinds of tzukogamis (inanimated objects which become conscious after they are more than 100 years old). Commonly, they are not hostile at all but, the way Mya broke into the tower made them get very angry and become really dangerous. Poor Mya refugeed in a chamber located at the top of the tower, unable to descend the 25 floors and return home, surviving miserably during several weeks.
+
+Nanako, heavily worried about his sister’s disappeareance, made some research and soon discovered a dim clue which led her to follow her Sister’s path to the Heun Tower. Her mental connection with Mya made the rest. With firm step, Nanako entered the tower to rescue her sister. She just had to find her so they could together create a connection to be teleported to a safe place. Then main problem was to dodge all those karakasa to get to Mya!
+
+El juego / The game
+
+En este juego encarnas una vez más a Nanako. El juego consta de 25 niveles, cada uno representando una planta de la torre Heún. Para alcanzar el siguiente nivel deberás literalmente construirte un camino para salir por la parte superior de la pantalla. Esto se logra gracias a la habilidad de Nanako de poder acarrear cajas de madera y dejarlas en otro lugar, sólo una cada vez.
+
+En cada pantalla habrá un Karakasa que en ocasiones nos hará la vida imposible. Con cuidado, Nanako puede caminar sobre el Karakasa, aunque si por casualidad el Karakasa se moviera del sitio haciendo caer a Nanako habría muchas posibilidades que de que perdamos una de nuestras cinco valiosas vidas. El poder usar al Karakasa como apoyo para saltar y llegar a niveles superiores es clave en algunos niveles.
+
+Otra cosa que podemos hacer es liberar una caja en medio de un salto, con lo que apareceremos sobre la misma suspendidos en el aire. Quien domine el arte de hacer aparecer la caja en el punto álgido del salto lo tendrá mucho más sencillo para llegar a la cúspide de cada planta y avanzar en el juego.
+
+Al principio de cada nivel se da una contraseña (usando el alfabeto Kun) que podemos emplear para acceder directamente al mismo en lugar de tener que empezar de cero en cada partida. Usa arriba, abajo, izquierda y derecha para escribir la contraseña. Pulsa saltar para validarla.
+
+In this game you control Nanako. The game consists on 25 levels, each one representing one of the floors in the tower. In each one, to reach the following level you have to literally build up your path to the top of the screen. This can be managed with Nanako’s ability to carry boxes (only one at a time) and drop them elsewhere.
+
+In each screen you’ll find a Karakasa which sometimes will cause real trouble. Nanako is able to walk over a still Karakasa, but if it eventually moves Nanako could fall from its top and be caught by it, losing a valuable life. To be able to use a Karakasa as a stand to jump and reach higher is decisive in some of the levels.
+
+Another useful thing Nanako is able to do is to release a box in mid air, during a jump, causing the box to appear where she is and stay in the middle of the air. It’s very important to master the ability to drop the box in the highest point of a jump, gaining fast access to upper levels.
+
+At the beginning of each levels a password is given (using the Kun alphabet) which we can use to access directly to that level instead of having to start over once and again. Use LEFT/RIGHT/UP/DOWN to write the password and JUMP to validate it.
+
+Manejo / Controls:
+
+El juego se maneja con el joystick conectado en el puerto 2. El comportamiento es el siguiente:
+
+    IZQUIERDA. IZQUIERDA
+    DERECHA. DERECHA
+    ARRIBA. COGER CAJA
+    ABAJO. SOLTAR CAJA
+    DISPARO. SALTAR
+
+Si te quedas atrapado o no sabes cómo seguir, pulsa R para reiniciar el nivel (perderás una vida).
+
+Use the joystick on port 2. You walk left/right pushing the joystick left/right, you get a box pushing down and drop it pushing up. To jump, use the fire button. Press R to retry the level (you will lose a life).
+Versión C64 por Inside
+
+Este port ha sido realizado desde 0 por Inside sobre el diseño original de The Mojon Twins.
+
+This port has been developed from scratch by Inside upon the original design by The Mojon Twins.
+______________________________________________________________________________________________________________________________________________________________________________________________________________________
+
+
+Licencia
+A continuación os indicamos a qué tenéis que ateneros al usar MK2 o cualquiera de nuestros engines (salvo MK1/La Churrera – Para la licencia de este producto consultar su página http://www.mojontwins.com/juegos_mojonos/la-churrera/) o códigos fuentes, o al utilizar gráficos, ideas, argumentos, personajes, músicas, sonidos, ilustraciones, etc… es decir: TODA NUESTRA OBRA CREATIVA. Gracias a nuestro amigo Marco Fernández por la traducción al inglés.
+
+Todo el contenido de la web, toda nuestra obra creativa, incluido el código fuente está bajo licencia Creative Commons 3.0 “by-nc-ca”, o sea, “Reconocimiento-NoComercial-CompartirIgual 3.0 Unported (CC BY-NC-SA 3.0)”
+
+http://creativecommons.org/licenses/by-nc-sa/3.0/
+
+http://creativecommons.org/licenses/by-nc-sa/3.0/deed.es_ES
+
+Esto significa que eres libre de:
+
+– Copiar, distribuir y comunicar públicamente la obra.
+– Transformar la obra.
+– Crear productos derivados de la obra.
+
+Bajo las siguientes condiciones:
+
+Reconocimiento — Debes reconocer los créditos de la obra de la manera especificada por los Mojon Twins (pero no de una manera que sugiera que tiene su apoyo o apoyan el uso que hace de su obra). En este caso, sólo te pedimos que incluyas el texto “Powered by La Churrera” o “Powered by MK2” (según aplique) o incluyas el logo que incluimos en el archivo logo.png en la pantalla de carga y la portada del güego.
+
+No comercial — No puede utilizar esta obra para fines comerciales.
+
+Compartir bajo la misma licencia — Si altera o transforma esta obra, o genera una obra derivada, sólo puede distribuir la obra generada bajo una licencia idéntica a ésta.
+
+Entendiendo que:
+
+Renuncia — Alguna de estas condiciones puede no aplicarse si se obtiene el permiso explícito de los Mojon Twins.
+
+Aviso — Al reutilizar o distribuir la obra, tiene que dejar bien claro los términos de la licencia de esta obra.
+
+En resumen
+
+– Los güegos que hagan deben lanzarse bajo una licencia CC equivalente. Si quieres lanzar los güegos bajo otro tipo de licencia, debes hablar con nosotros y pedir permiso. Esto incluye especialmente la elaboración de copias físicas (ver más abajo).
+
+– Debes incluir “Powered by la Churrera” o “Powered by MK2” o “Powered by NOMBRE-DEL-ENGINE” según aplique, o el logo correspondiente en pantalla de carga y portada. No te cuesta ningún trabajo y nos beneficiamos todos.
+
+Sobre las copias físicas
+
+– Copias físicas privadas: Puedes grabar un juego en una cinta, cd, dvd, disquete o cartucho para tu disfrute propio.
+– Copias físicas promocionales: Puedes grabar un juego en una cinta, cd, dvd, disquete o cartucho y regalarlo a tus amigos corriendo tú personalmente con todos los gastos.
+– Copias físicas para vender (incluye recompensas en crowdfundings y cualquier otra actividad que implique un intercambio económico): Depende del producto pero, en cualquier caso, lo mejor es preguntar.
+License
+
+You must observe the terms below when using MK2 or any of our engines or source code (save for MK1/la Churrera; read more at http://www.mojontwins.com/juegos_mojonos/la-churrera-english/ ), or when using our graphics, ideas, storylines, characters, music, sounds, illustrations, etc., i.e. ANY OF OUR CREATIVE WORK
+
+All the content on this site, and all of our creative work, including source code, are licensed under Creative Commons 3.0 Attribution-NonCommercial-ShareAlike 3.0 Unported (CC BY-NC-SA 3.0.)
+
+https://creativecommons.org/licenses/by-nc-sa/3.0/
+
+This means you can freely:
+
+– Copy, distribute and transmit our work.
+– Transform our work.
+– Create products derived from our work.
+
+You may do so under the following terms:
+
+Attribution — You must attribute the work in the manner specified by the Mojón Twins (but not in any way that suggests that they endorse you or your use of the work.) In this case, we only ask that you include the text “Powered by La Churrera” or “Powered by MK2” (as applicable) or that you include the logo included in the file logo.png in the game’s loading screen and cover art.
+
+NonCommercial — You may not use this material for commercial purposes.
+
+Share Alike — If you alter or transform this work, or generate any work derived from it, you can only distribute your derived work under a license identical to this one.
+
+Understanding that:
+
+Disclaimer — Some of these conditions may not be applicable if you obtain explicit permission from the Mojón Twins.
+
+Notice — When reusing or distributing the work, you need to clearly specify the terms in its license.
+
+In a nutshell
+
+– The games you make must be released under an equivalent CC license. If you want to release your games under a different kind of license, you must contact us to get permission. This applies specially to the manufacturing of physical copies (see below.)
+
+– You must include “Powered by la Churrera” or “Powered by MK2” or “Powered by ENGINE-NAME” as applicable, or the corresponding logo on the loading screen and cover art. This is easy for you, and will benefit all of us.
+
+About physical copies
+
+– Private physical copies: You may record a game on tape, CD, DVD, floppy disk or cartridge for your own personal use.
+– Promotional physical copies: You may record a game on tape, CD, DVD, floppy disk or cartridge to give away to your friends paying for all expenses yourself.
+– Physical copies for sale (including crowdfunding rewards and any activity involving economic transactions): It depends on the product, but in any case, the best practice is always give us a shout and ask.
+
+______________________________________________________________________________________________________________________________________________________________________________________________________________________
+
+http://www.mojontwins.com/juegos_mojonos/nanako-in-classic-japanese-monster-castle-c64/

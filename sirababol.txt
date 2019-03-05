@@ -1,0 +1,168 @@
+Sir Ababol C64 (Mojon-Twins--Sir-Ababol--C64.d64)
+by Mojon Twins
+2012/12/01
+http://www.mojontwins.com/juegos_mojonos/sir-ababol-c64/
+
+
+Sir Ababol C64
+
+ Juego / Game: The Mojon Twins, colección Pretujao C64, vol #1.
+
+Concepto e Historia / Concept and Story: anjuel & maribip & zemman
+Gráficos / Graphics: na_th_an, anjuel & kendrook
+VERSION: WOODMASTER
+IN GAME MSX AND SFX: CONRAD/VRZ
+TAPE LOADER TUNE & END SCREEN MSX: LINUS/VRZ
+TAPE LOADER: ENTHUSI……
+Portada / Cover: Kendroock
+
+Chiptune original “Romanic” compuesta por MEKOLA:
+http://modarchive.org/index.php?request=view_profile&query=80623
+
+BETA TESTERS: JAZZCAT, LOBOGRIS, AGOD AND HEAVY
+
+Dedicado a Dolores Tomás, Eightbiter Jr., Jonathan Smith “Joffa”, DRUMS, OLA K ASE.
+
+Historia / Story
+
+A finales del siglo XI, el joven cruzado Sr. Ababol de Manchester City, cruzó las verdes praderas de la bretaña francesa, escaló las infinitas cumbres de los Pirineos para descabalgar a orillas del Alcoraz River. Allí, contempló atónito cómo San Jorge de Capadocia, también conocido como “el del dragón”, ayudaba a los fieles cristianos en su conquista de los territorios dominados por los infieles.
+
+Tal fue su perplejidad ante semejante aparición que se tropezó con un pedrusco, cayó de culo sobre una bola gorda de pinchos, lo que le hizo pegar un brinco y caer al caudal del río que le arrastró hasta el Monegro’s desert.
+
+Allí despertó mientras una oveja le lamía el carrillo izquierdo y diose cuenta de que había perdido su espada sin la cual no podía continuar su viaje de cruzado por el mundo. Puestos a cruzar, cruzó el sembra’o de alfalfa para preguntarle a un buen hombre si había visto su espada. El gentil hombre de entrecejo frondoso le señaló a un campo de ababoles salvajes…
+
+¿Qué eran aquellas encarnadas flores que casualmente se llamaban como él? ¿Sería cosa del destino? ¿desde cuándo el Alcoraz desemboca en los Monegros? ¿Por qué Santa Marta tiene tren pero no tiene tranvía? ¿Qué opina Belloch de tal circunstancia? ¿Por dónde queda Jerusalem? ¿Será zona B de taxi?… demasiadas preguntas se agolpaban en su cabeza, las sacudió todas de un estornudo y se introdujo valeroso y gallardo entre las flores.
+
+A partir de aquí su destino está en tus dedos. Dirígele entre los tenebrosos recovecos monegriles, ayudale a recolectar los ababoles necesarios y recupera su espada para continuar el camino hacia Jerusalem. Amén. Jesús.
+
+At the end of the 11th Century, a young crusader named Sir Ababol from Manchester City traveled accross the ever green prairies in the French Britain, climbed the infinite heights at the Pirineos and arrived to the Alcoraz River. There, he witnessed completely astonished how St. George from Capadocia, also known as “the dragon guy”, helped Christians conquer territories held by the infidels.
+
+He became so perplexed about such an apparition that he stumbled over a rock and fell down on his ass over a big fat ball of spikes, which made him jump accross the air and fall in the river which carried him to the Monegros’ Desert.
+
+There he awoke whilst a shep licked his right cheek and he realised that he hath lost his mighty sword, without which he couldn’t continue his journey accross the world. Decided to get accross something, he went accross a lucence-sown field to ask a good farmer if he hath seen his sword. The good fella of incredibly populated frown just pointed in direction of a piece of land full of wild ababol flowers.
+
+What those red flowers which cointidentially were called like him were? Did it have to do with destiny? Since when the Alcoraz River flows into the Monegros’ Desert? Why St. Marta has a train station but not a tram line? How do I get to Jerusalem?… Too many questions gathered in his head, so he wiped them all out with a big sneeze and headed to the land full of ababol flowers.
+
+Since this very moment his fate is on your fingertips. Drive him accross the monegrian fields helping him collect the strange ababol flowers and regain his sword for him to be able to keep journeying to Jerusalem. Amen. Jesus.
+
+El Juego / The Game
+
+Controla a Sir Ababol a través de los Monegros buscando todos los ababoles. Para progresar en tu aventura tendrás que ir encontrando una serie de llaves que podrás usar para abrir puertas y acceder a otras localizaciones. Una vez que hayas reunido 25 ababoles acabará tu misión.
+
+Evita tocar a los bicharracos que pululan por el escenario, y el agua que es mala. Para recuperar algo de aliento, puedes comerte uno de los muslos de pollo “monegro’s fried chicken” mágicos que aparecerán repartidos por el escenario una vez que hayas cogido algún ababol, en las pantallas ya visitadas.
+
+Control Sir Ababol accross the Monegrian fields and gather 25 ababol flowers. To be able to progress in your journey you’ll need some keys you will be able to use to open several doors to gain access to different sections. Once you have gotten 25 ababol flowers, your mission will be over.
+
+Avoid touching the monster wandering around the place, and the water, which is evil. You can regain some lost breath eating some magical legs of monegros’ fried chicken which you will find scattered around the already visited screens.
+
+Controles / Controls
+
+Este juego se controla usando un joystick en el puerto 2.
+
+This game is controlled using a joystick on port 2.
+
+LEFT: Izquierda / Left
+RIGHT: Derecha / Right
+FIRE: Saltar / Jump
+
+Q: Morir / Dead
+
+ 
+
+FX Mañopower
+
+Recoger ababoles y estar perdido en los Monegros hace que nuestro Sir Ababol sea reconocido abiertamente como Mañopower.
+
+Gathering ababol flowers and being lost in the Monegros makes our Sir Ababol being openly recognized as Mañopower.
+FX Wood el rápido / FX Wood the quick
+
+Woodmaster ha realizado la conversión en tiempo récord. ¡Aún estamos despeinados!
+
+Woodmaster has coded this conversion in record time. Our hair is still undone!
+
+______________________________________________________________________________________________________________________________________________________________________________________________________________________
+
+
+Licencia
+A continuación os indicamos a qué tenéis que ateneros al usar MK2 o cualquiera de nuestros engines (salvo MK1/La Churrera – Para la licencia de este producto consultar su página http://www.mojontwins.com/juegos_mojonos/la-churrera/) o códigos fuentes, o al utilizar gráficos, ideas, argumentos, personajes, músicas, sonidos, ilustraciones, etc… es decir: TODA NUESTRA OBRA CREATIVA. Gracias a nuestro amigo Marco Fernández por la traducción al inglés.
+
+Todo el contenido de la web, toda nuestra obra creativa, incluido el código fuente está bajo licencia Creative Commons 3.0 “by-nc-ca”, o sea, “Reconocimiento-NoComercial-CompartirIgual 3.0 Unported (CC BY-NC-SA 3.0)”
+
+http://creativecommons.org/licenses/by-nc-sa/3.0/
+
+http://creativecommons.org/licenses/by-nc-sa/3.0/deed.es_ES
+
+Esto significa que eres libre de:
+
+– Copiar, distribuir y comunicar públicamente la obra.
+– Transformar la obra.
+– Crear productos derivados de la obra.
+
+Bajo las siguientes condiciones:
+
+Reconocimiento — Debes reconocer los créditos de la obra de la manera especificada por los Mojon Twins (pero no de una manera que sugiera que tiene su apoyo o apoyan el uso que hace de su obra). En este caso, sólo te pedimos que incluyas el texto “Powered by La Churrera” o “Powered by MK2” (según aplique) o incluyas el logo que incluimos en el archivo logo.png en la pantalla de carga y la portada del güego.
+
+No comercial — No puede utilizar esta obra para fines comerciales.
+
+Compartir bajo la misma licencia — Si altera o transforma esta obra, o genera una obra derivada, sólo puede distribuir la obra generada bajo una licencia idéntica a ésta.
+
+Entendiendo que:
+
+Renuncia — Alguna de estas condiciones puede no aplicarse si se obtiene el permiso explícito de los Mojon Twins.
+
+Aviso — Al reutilizar o distribuir la obra, tiene que dejar bien claro los términos de la licencia de esta obra.
+
+En resumen
+
+– Los güegos que hagan deben lanzarse bajo una licencia CC equivalente. Si quieres lanzar los güegos bajo otro tipo de licencia, debes hablar con nosotros y pedir permiso. Esto incluye especialmente la elaboración de copias físicas (ver más abajo).
+
+– Debes incluir “Powered by la Churrera” o “Powered by MK2” o “Powered by NOMBRE-DEL-ENGINE” según aplique, o el logo correspondiente en pantalla de carga y portada. No te cuesta ningún trabajo y nos beneficiamos todos.
+
+Sobre las copias físicas
+
+– Copias físicas privadas: Puedes grabar un juego en una cinta, cd, dvd, disquete o cartucho para tu disfrute propio.
+– Copias físicas promocionales: Puedes grabar un juego en una cinta, cd, dvd, disquete o cartucho y regalarlo a tus amigos corriendo tú personalmente con todos los gastos.
+– Copias físicas para vender (incluye recompensas en crowdfundings y cualquier otra actividad que implique un intercambio económico): Depende del producto pero, en cualquier caso, lo mejor es preguntar.
+License
+
+You must observe the terms below when using MK2 or any of our engines or source code (save for MK1/la Churrera; read more at http://www.mojontwins.com/juegos_mojonos/la-churrera-english/ ), or when using our graphics, ideas, storylines, characters, music, sounds, illustrations, etc., i.e. ANY OF OUR CREATIVE WORK
+
+All the content on this site, and all of our creative work, including source code, are licensed under Creative Commons 3.0 Attribution-NonCommercial-ShareAlike 3.0 Unported (CC BY-NC-SA 3.0.)
+
+https://creativecommons.org/licenses/by-nc-sa/3.0/
+
+This means you can freely:
+
+– Copy, distribute and transmit our work.
+– Transform our work.
+– Create products derived from our work.
+
+You may do so under the following terms:
+
+Attribution — You must attribute the work in the manner specified by the Mojón Twins (but not in any way that suggests that they endorse you or your use of the work.) In this case, we only ask that you include the text “Powered by La Churrera” or “Powered by MK2” (as applicable) or that you include the logo included in the file logo.png in the game’s loading screen and cover art.
+
+NonCommercial — You may not use this material for commercial purposes.
+
+Share Alike — If you alter or transform this work, or generate any work derived from it, you can only distribute your derived work under a license identical to this one.
+
+Understanding that:
+
+Disclaimer — Some of these conditions may not be applicable if you obtain explicit permission from the Mojón Twins.
+
+Notice — When reusing or distributing the work, you need to clearly specify the terms in its license.
+
+In a nutshell
+
+– The games you make must be released under an equivalent CC license. If you want to release your games under a different kind of license, you must contact us to get permission. This applies specially to the manufacturing of physical copies (see below.)
+
+– You must include “Powered by la Churrera” or “Powered by MK2” or “Powered by ENGINE-NAME” as applicable, or the corresponding logo on the loading screen and cover art. This is easy for you, and will benefit all of us.
+
+About physical copies
+
+– Private physical copies: You may record a game on tape, CD, DVD, floppy disk or cartridge for your own personal use.
+– Promotional physical copies: You may record a game on tape, CD, DVD, floppy disk or cartridge to give away to your friends paying for all expenses yourself.
+– Physical copies for sale (including crowdfunding rewards and any activity involving economic transactions): It depends on the product, but in any case, the best practice is always give us a shout and ask.
+
+______________________________________________________________________________________________________________________________________________________________________________________________________________________
+
+http://www.mojontwins.com/juegos_mojonos/sir-ababol-c64/
