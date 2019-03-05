@@ -21,6 +21,7 @@ Homebrew Commodore 64 games:
  - <b>Maze Of Death [C64]</b> by Hamrath
  - <b>Monster Hunt [C64]</b> by Cout Games
  - <b>Moon Rock [C64]</b> by Cout Games
+ - <b>Nanako in Classic Japanese Monster Castle [C64]</b> by Mojon Twins
  - <b>NumTrap [C64]</b> by Cout Games
  - <b>Paper Plane [C64]</b> by Roysterini
  - <b>Plunko [C64]</b> by Cout Games
@@ -32,10 +33,12 @@ Homebrew Commodore 64 games:
  - <b>Sentence [C64]</b> by Roysterini
  - <b>Shinobiden Zero [C64]</b> by Tekkamansoul
  - <b>Simon [C64]</b> by Cout Games
+ - <b>Sir Ababol [C64]</b> by Mojon Twins
  - <b>Snafu [C64]</b> by Megastyle
  - <b>The Labyrinth [C64]</b> by Cout Games
  - <b>Tombstones [C64]</b> by Megastyle
  - <b>Trolley Follies [C64]</b> by BlackCastle
+ - <b>Uwol, Quest for Money [C64]</b> by Mojon Twins
  - <b>Warner Thomas Fahrenheit (WTF) [C64]</b> by Misfit
  - <b>Winky Blinky [C64]</b> by Roysterini
 
