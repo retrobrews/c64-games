@@ -1,0 +1,33 @@
+Zilspleef (2018)
+playOrbit/tnd
+
+SYNOPSIS
+Control a squeaky bubble through a labyrinth of dimensional terror and cosmic intrigue.
+
+CREDITS:
+
+Code                .... 	Chris Yates [S.E.U.C.K.]
+Music/Packing       .... 	Richard Bayliss/TND (The New Dimension)
+Design/Graphics/FX  .... 	Mo Dernart/playOrbit/[R.A.W.]
+
+Designer Notes:
+
+Another game of cathartic expressionism, completely developed spontaneously, where afterward overtones of multiple C64 and Atari 2600 games seemed to serve as subconscious inspiration and influence. Games spring to mind like: Castle Wolfenstein (the original); Bezerk!; Marble Madness, Worm War III, dungeon crawlers, etc.. -Mo Dernart
+
+-----
+
+Stayed tuned for the expanded version of the mini-game in the penultimate level, scheduled for a special 'xmas 2018 release --- a new standalone game of epic action: Wafer War III!
+
+Released for playOrbit and...
+for Richard Bayliss's parent brand, TND and its contributor pages.
+See Mo Dernart's other recent excellent adventure games also on playorbit and TND:
+Atom Heart, Electric Warrior and Algol. 2018.
+Massive thanks to Richard Bayliss for title music and mastering once again..
+Also thanks to Chris Yates.
+
+WEBSITES:
+
+TND (The New Dimension) // www.tnd64.unikat.sk
+
+playOrbit // playorbit.com
+https://playorbit.itch.io/zilspleef

@@ -1,0 +1,30 @@
+Algol (2018)
+playOrbit/tnd
+
+SYNOPSIS
+Control the Orbis aka "The Harvester of Doom," from the Soros System. Invade, subjugate and destroy the planet of Eden.
+
+CREDITS:
+
+Code                .... 	Chris Yates [S.E.U.C.K.]
+Music/Packing       .... 	Richard Bayliss/TND (The New Dimension)
+Design/Graphics/FX  .... 	Mo Dernart/playOrbit/[R.A.W.]
+
+Designer Notes:
+
+My love letter, sort of, to games like Paradroid, Xevious, Aztec Challenge, and Alcazar that captured my imagination and lots of time in my youth. -Mo Dernart
+The game includes additional homage to Shoot'em Up Construction kit and in particular, in the introductory level - Slap and Tickle (albeit with new graphics and animation for our beloved evil bizarro-character version)!
+
+-----
+
+Released for the SEUCK Game Creation Compo 2018
+Hosted by Richard Bayliss
+Massive thanks to Richard Bayliss for title + game music, crunching, assistance and all the other various tasks.
+Also thanks to Chris Yates.
+
+WEBSITES:
+
+TND (The New Dimension) // www.tnd64.unikat.sk
+
+playOrbit // playorbit.com
+https://playorbit.itch.io/algol

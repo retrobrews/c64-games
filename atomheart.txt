@@ -1,0 +1,14 @@
+Atom Heart (C64) Commodore 64
+Genre	Shooter, Action, Adventure
+by PlayOrbit 2018
+
+For the Commodore 64 and emulators like VICE v3.x+:
+
+You are the captain of the ATOM-X nuclear-powered spacecraft in this fine-tuned, full science-fiction adventure.
+
+Tip: Read the instructions to ‘decipher’ possible tips. Your ATOM-X space craft has more than its Atomizer for its offensive capabilities, but you must learn your opponents and obstacles!
+
+With stunning soundtrack title music by sensational soundsmith Richard Bayliss. And game design by maverick mason Mo Dernart.
+
+
+https://playorbit.itch.io/atom-heart
