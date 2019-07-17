@@ -13,6 +13,18 @@
      <players>1</players>
    </game>
    <game>
+     <path>./algol.d64</path>
+     <name>Algol [C64]</name>
+     <desc>Control the Orbis aka "The Harvester of Doom", from the Soros System. Invade, subjugate and destroy the planet of Eden.</desc>
+     <image>./algol.png</image>
+     <rating>0</rating>
+     <releasedate>20180613T000000</releasedate>
+     <developer>PlayOrbit</developer>
+     <publisher>HOMEBREW ROM</publisher>
+     <genre>Algol</genre>
+     <players>1</players>
+   </game>
+   <game>
      <path>./athanor_plus4.d64</path>
      <name>Athanor The Awakening [C64]</name>
      <desc>Athanor takes place in the south of Italy in the 12th Century. You are playing as a Franciscan monk, sent by his Holy order in order to make an inquiry in an abbey where suspect events have aroused many fears. You will lead this inquiry in order to discover the mysteries lying within this abbey. Let your conscience be your guide and you may discover greater secrets that you could have thought of.</desc>
@@ -22,6 +34,18 @@
      <developer>Megastyle</developer>
      <publisher>HOMEBREW ROM</publisher>
      <genre>Athanor The Awakening (C-plus4 version)</genre>
+     <players>1</players>
+   </game>
+   <game>
+     <path>./atomheart.d64</path>
+     <name>Atom Heart [C64]</name>
+     <desc>You are the captain of the ATOM-X nuclear-powered spacecraft in this fine-tuned, full science-fiction adventure.</desc>
+     <image>./atomheart.png</image>
+     <rating>0</rating>
+     <releasedate>20180613T000000</releasedate>
+     <developer>PlayOrbit</developer>
+     <publisher>HOMEBREW ROM</publisher>
+     <genre>Atom Heart</genre>
      <players>1</players>
    </game>
    <game>
@@ -58,6 +82,18 @@
      <developer>Ice Team</developer>
      <publisher>HOMEBREW ROM</publisher>
      <genre>Elav [v.1.00]</genre>
+     <players>1</players>
+   </game>
+   <game>
+     <path>./electricwarrior.d64</path>
+     <name>Electric Warrior [C64]</name>
+     <desc>The chosen child of NRAR, trained in the cosmic future art of 'rabbitfighting' (aka ghosting) teleports to Earth, year 9634, to recover an ancient and holy relic, lost years past after the cataclysmic shattering of its homeworld --- scattering its souls and sacred treasures throughout the interstellar universe.</desc>
+     <image>./electricwarrior.png</image>
+     <rating>0</rating>
+     <releasedate>XXXX0000T000000</releasedate>
+     <developer>PlayOrbit</developer>
+     <publisher>HOMEBREW ROM</publisher>
+     <genre>Electric Warrior</genre>
      <players>1</players>
    </game>
    <game>
@@ -478,6 +514,18 @@
      <developer>Misfit</developer>
      <publisher>HOMEBREW ROM</publisher>
      <genre>Warner Thomas Fahrenheit</genre>
+     <players>1</players>
+   </game>
+   <game>
+     <path>./zilspleef.d64</path>
+     <name>Zilspleef [C64]</name>
+     <desc>Control a squeaky bubble through a labyrinth of dimensional terror and cosmic intrigue.</desc>
+     <image>./zilspleef.png</image>
+     <rating>0</rating>
+     <releasedate>20180819T000000</releasedate>
+     <developer>PlayOrbit</developer>
+     <publisher>HOMEBREW ROM</publisher>
+     <genre>Zilspleef</genre>
      <players>1</players>
    </game>
   </gameList>
