@@ -2,10 +2,13 @@
 Homebrew Commodore 64 games:
 
  - <b>$100 Box [C64]</b> by Cout Games
+ - <b>Algol [C64]</b> by PlayOrbit
  - <b>Athanor The Awakening [C64]</b> by Megastyle
+ - <b>Atom Heart [C64]</b> by PlayOrbit
  - <b>Bapple-Ships [C64]</b> by Cout Games
  - <b>Captain Cloudberry [C64]</b> by Megastyle
  - <b>Elav [C64]</b> by Ice Team
+ - <b>Electric Warrior [C64]</b> by PlayOrbit
  - <b>Exploding Fish [C64]</b> by Megastyle
  - <b>Find The Pussy [C64]</b> by Cout Games
  - <b>Gruniozerca [C64]</b> by 6bits (Lukasz Kies)
@@ -41,6 +44,7 @@ Homebrew Commodore 64 games:
  - <b>Uwol, Quest for Money [C64]</b> by Mojon Twins
  - <b>Warner Thomas Fahrenheit (WTF) [C64]</b> by Misfit
  - <b>Winky Blinky [C64]</b> by Roysterini
+ - <b>Zilspleef [C64]</b> by PlayOrbit
 
 
 *Note: The ROMs listed here have been approved for free distribution on this site/project only. If you want to share it, please contact owner/developer. Thanks!
