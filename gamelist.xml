@@ -206,14 +206,14 @@
    </game>
    <game>
      <path>./joegunngold.d64</path>
-     <name>Joe Gunn Gold [C64]</name>
+     <name>Joe Gunn Gold Edition [C64]</name>
      <desc>You are Joseph J.Gunn.  Archaeologist by passion.  By chance you stumbled upon an unknown pyramid in the desert of Egypt.  You suspect it to be the long lost tomb of the Crocodile King.  The king whose name has been erased from history as if nobody should ever know of his existence. This is a 1 player game, controlled by a Joystick in port 2.Press SPACE to exit the title picture.  Press FIRE to begin the game. Move Joystick LEFT and RIGHT to make Joe run left and right. Press FIRE while running to make Joe jump in that direction. Move Joystick UP and DOWN to climb up and down ladders. Hold FIRE and move Joystick DOWN to search where Joe is standing. Hold FIRE and move Joystick UP to use items you are holding.</desc>
      <image>./joegunngold.png</image>
      <rating>0</rating>
      <releasedate>20180314T000000</releasedate>
      <developer>Psytronik Software</developer>
      <publisher>HOMEBREW ROM</publisher>
-     <genre>Joe Gunn Gold [C64]</genre>
+     <genre>Joe Gunn Gold Edition [C64]</genre>
      <players>1</players>
    </game>
    <game>
