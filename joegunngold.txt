@@ -1,0 +1,133 @@
+JOE GUNN - GOLD EDITION
+=======================
+by Psytronik Software (in association with Cronosoft)
+2018/03/14
+
+LOADING
+=======
+
+To load, type  LOAD "*",8,1 and press RETURN.  Once the
+Joe Gunn disk menu has loaded type RUN and press RETURN.
+Now follow the on-screen prompts to load the program of
+your choice.
+
+
+THE STORY
+=========
+
+You are Joseph J.Gunn.  Archaeologist by passion.  By chance you
+stumbled upon an unknown pyramid in the desert of Egypt.  You
+suspect it to be the long lost tomb of the Crocodile King.  The king
+whose name has been erased from history as if nobody should ever
+know of his existence.
+
+
+INSTRUCTIONS
+============
+
+This is a 1 player game, controlled by a Joystick in port 2.
+
+Press SPACE to exit the title picture.  Press FIRE to begin the game.
+
+Move Joystick LEFT and RIGHT to make Joe run left and right.
+
+Press FIRE while running to make Joe jump in that direction.
+
+Move Joystick UP and DOWN to climb up and down ladders.
+
+Hold FIRE and move Joystick DOWN to search where Joe is standing.
+
+Hold FIRE and move Joystick UP to use items you are holding.
+
+
+INLAY PRINTING INSTRUCTIONS
+===========================
+
+This DELUXE DOWNLOAD file also features the Premium Disk artwork in a
+separate folder.  Now that the Premium Disk range has been discontinued
+we are giving away the artwork with certain downloads so you can make
+your own Premium inlay if you wish.
+
+The correct size to print this artwork to fit a
+standard Premium Disk 5.25" plastic case is:-
+
+28.5 cm wide
+14.5 high
+
+
+CREDITS
+=======
+
+· Coding by Georg ‘Endurion’ Rottensteiner
+
+· Graphics by Paul ‘Madgarden’ Pridham & Howard ‘Codex’ Kistler
+
+· Music by Thomas ‘Laxity’ Egeskov-Petersen
+
+· Title screen & cover artwork by Trevor ‘Smila’ Storey
+
+· Additional artwork by Jason ‘Kenz’ Mackenzie
+
+· Disk menu code and music by Richard ‘TND’ Bayliss
+
+· Game Manual .pdf by Andy 'Retrofreak90' Haywood
+
+
+Published in 2009 by Psytronik Software & Protovision
+
+www.psytronik.net
+
+www.protovision-online.de
+
+
+
+
+
+JOE GUNN - GOLD EDITION
+=======================
+
+Welcome to JOE GUNN - GOLD EDITION, the 8th release from Psytronik Software (in association with Cronosoft).
+
+This .zip file contains both the English and German versions of the game as .TAP files which you can load into a C64 emulator like VICE or CCS64.
+
+
+WHAT IS A .TAP FILE?
+====================
+
+A .TAP file is a C64 tape image file suitable for emulators.  When loaded into an emulator a .TAP file authentically recreates the tape loading experience.  You can listen to the loading music and observe the loading screen while the program loads - it's exactly like loading a tape on a real C64.  Of course, if you want to speed things up you can always increase the speed of your emulator.
+
+
+WHERE CAN I DOWNLOAD THE EMULATORS?
+===================================
+
+Two of the most popular C64 emulators are VICE and CCS64.  You can download the latest version of VICE from http://www.viceteam.org/ and CCS64 is available from http://www.computerbrains.com/ccs64/
+
+
+HOW DO I LOAD THE .TAP FILES INTO VICE?
+=======================================
+
+Firstly, extract the .TAP files from this .ZIP file.  Now, load up the VICE: C64 Emulator and you will soon be faced with a familiar blue startup screen.  Now pull down the File menu and select 'Autostart tape/disk image...' The file select window will appear.  Browse to where you extracted the .TAP files, change the 'Files of type' option to 'Tape image files' and then double-click the .TAP file you wish to load.  The game will now load in exactly the same was the real C64 tape version.
+
+
+HOW DO I LOAD THE .TAP FILES INTO CCS64?
+========================================
+
+Firstly, extract the .TAP files from this .ZIP file.  Now, load up the CCS64 Emulator and you will soon be faced with a familiar blue startup screen.  Press F9 and use the cursor keys to select 'Tape Device 1...'  Now use the cursor keys to navigate to where you extracted the .TAP files.  Navigate to the .TAP file you wish to load and press RETURN.  The game will now load in exactly the same was the real C64 tape version.  If you are using the Windows version of CCS64 you can load .TAP files by pulling down the '-File' menu.  Choose 'Load and Run...' and browse to where you extacted the .TAP files.  Make sure 'Files of type' has 'All C64 Files' selected and the .TAP images should show in the browser window.  Now double-click the .TAP file you wish to load and sit back and wait for the game to load in.
+
+
+JOE GUNN CREDITS:
+=================
+
+Coding by Georg 'Endurion' Rottensteiner
+
+Graphics by Paul 'Madgarden' Pridham & Howard 'Codex' Kistler
+
+Music by Thomas 'Egeskov' Petersen
+
+Title screen & inlay artwork by Trevor 'Smila' Storey
+
+Inlay layout by Jason 'Kenz' Mackenzie
+
+Tape mastering & loading music by Richard Bayliss
+
+Freeload by Paul Hughes 

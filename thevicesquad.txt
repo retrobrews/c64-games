@@ -1,0 +1,66 @@
+The Vice Squad (C64)
+by Psytronik Software
+2013/12/08
+
+
+** AWESOME DRIVING ACTION GAME FOR THE C64! **
+
+Blasting onto your Commodore 64 is THE VICE SQUAD, a thrilling and action packed driving 
+shooter from Achim Volkers and Trevor 'Smila' Storey. Featuring super-fast and silky-smooth 
+scrolling, assorted weapons, multiple levels to blast your way through, superbly designed 
+background graphics and amazing music this is one game you don't want to miss!
+
+
+The Vice Squad (C64)
+
+** STORY **
+
+El Guato, a Mexican drug baron, is expanding his empire to your city. He is ruthless and 
+dangerous and must be stopped at all costs. You are Captain James Hutch, you've never dealt
+with a vilian this powerful before but that won't stop you from bringing his empire to 
+it's knees.
+
+The Vice Squad (C64)
+
+** GAME FEATURES **
+
+• Multiple stages to battle through!
+
+• Superb backgrounds & varied scenery!
+
+• Awesome weaponry!
+
+• Mission briefings!
+
+• Boss battles!
+
+• Funky Soundtracks!
+
+• Addictive arcade gameplay!
+
+
+The Vice Squad (C64)
+
+** GAME CREDITS **
+
+Design and graphics by Trevor Storey
+
+Coding by Achim Volkers
+
+Music and SFX by Linus
+
+Beta playtesting by James Monkman & Jason 'Kenz' Mackenzie
+
+Packaging by Trevor Storey & Jason 'Kenz' Mackenzie
+
+The Vice Squad (C64)
+
+** SYSTEM REQUIREMENTS **
+
+THE VICE SQUAD is a game for the Commodore 64. You can play the game in a C64 emulator 
+(we recommend VICE) or you can port the game onto real C64 hardware if you have the 
+resources to do so. The download file features the .d64 (disk version), 
+.tap (tape version) and .prg (c64 program files). 
+
+
+https://psytronik.itch.io/the-vice-squad

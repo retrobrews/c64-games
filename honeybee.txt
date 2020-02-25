@@ -1,0 +1,137 @@
+Honey Bee (C64) [FREE]
+by Psytronik Software
+2016/04/04
+
+
+
+HONEY BEE
+=========
+
+LOADING (DISK):
+
+
+
+Insert disk.  Type LOAD “*”,8,1 (RETURN).  Once loaded type RUN (RETURN).
+Follow the on-screen prompts to start the game.
+
+
+LOADING (TAPE):
+
+Hold down SHIFT and press RUN STOP.  Press PLAY on tape.
+The program will now load and run automatically.
+
+
+STORY:
+
+Queen Bee is very annoyed at the fact that honey production is very low.  
+Many of her worker bees are just too damn lazy.  Luckily, there's one 
+reliable busy, but clumsy bee available for the job, and that is you, Buzzy ...
+
+Queen Bee sends you out into the wild to bring back pollen so that bee 
+farmers can produce more scrumptious honey for the villagers.  In order 
+to do this, as Buzzy, you must go to the flowers in each of the 16 screens 
+and pick out pollen from one flower.  You must then drop the pollen into 
+the hive (from any height).  One you have pollen in your possession you 
+are unable to pick any more up until it has been dropped into the bee hive.
+
+If you drop pollen in the wrong place, or lose a life, you will have to 
+restart the current level all over again.  Avoid crashing into buildings, 
+rocks, flower stems, flowing water (waterfalls are okay though), tree 
+branches, the ground, lava, and of course, the natural wildlife.
+
+
+CREDITS:
+
+Richard Bayliss - Programming / Loading Music / Font
+ 
+Joachim 'Yogibear' Wijnhoven - Music
+ 
+Wayne Womersley - Sprites / Design
+ 
+Steven 'Ste '86' Day - Additional In-Game Graphics / Inlay Logo
+ 
+Johan Janssen - Bitmap Graphics
+ 
+Trevor 'Smila' Storey - Inlay Artwork
+
+Martin Piper - Loader Source
+ 
+Dirk Schmitt - NTSC Fixing
+ 
+Jason 'Kenz' Mackenzie - Game Packaging
+
+Published in 2016 by www.psytronik.net
+
+This is a commercial release for the C64.
+Please support us by spreading the word,
+and the not the game!  Thank you.
+
+==========================================================================
+
+
+Honey Bee – Full Documentation
+
+Disk: 
+Type in LOAD “*”,8,1 then type in RUN. The disk menu will display with a 
+list of programs. Simply select the program which you wish to load. 
+The disk menu will then load and run the program. 
+
+Tape:
+Press Shift+Run/Stop. Press play on tape. Your program should then load. 
+Should any load errors occur, without the tape deck will stop. Don't reset, 
+just rewind the tape slightly then press play. 
+
+C128 Users (Applies to both disk+tape users):
+Type in GO64 and select 'Y' in the Are you Sure prompt, to go into C64 mode.
+
+Queen Bee is very annoyed at the fact that honey production is very low. 
+Many of her worker bees are just too damn lazy. Luckily there is one reliable 
+busy but clumsy bee available for the job, and that is you, Buzzy!
+
+Queen Bee sends you out into the wild to bring back pollen so that bee farmers 
+can produce more scrumptious honey for the villagers. In order to do this, as 
+Buzzy, you must go to each of the flowers on screen, collect the pollen, then 
+deposit it (at any height) into the bee hive entrance. Should you drop the 
+honey into the wrong place, or lose a life. You will have to start the current 
+level all over again. Watch out for the wildlife and the other obstacles, like 
+water, lava, rocks, branches, poisonous stems, and much more. Collision with 
+rain water or waterfalls is okay.
+
+After successfully completing a level, Buzzy will enter a bonus stage. In this
+ stage, you must survive the cave of bats within a set time limit. Should you 
+ complete this stage without bumping into anything bad, an extra life will be 
+ rewarded. Failing to complete the bonus stage will just send you to the next 
+ stage. The later the level, the more time you have to spend in the cave to 
+ win extra lives. 
+
+You will notice that during the game, the BT timer will count down. Should this
+ reach zero, it will not affect loss of lives. This is the bonus timer. If you
+  complete a level with any bonus time remaining, you'll get more points. 
+  Therefore the further you progress, you could achieve a high score.
+
+Extra lives are also awarded for every 10,000 points scored or for every 
+successful bonus stage complete.
+
+Can you complete all 16 levels and make Queen Bee proud? 
+
+Controls:
+
+Joystick in Port 2 (Directions to move the player, fire to drop pollen (when carried)
+Run/Stop -Pause game
+Q (When paused) – Abort game and return to the front end
+Restore returns to the front end at any time.
+
+Credits:
+
+Game design, concept and idea by Wayne Womersley
+Programming and sound effects by Richard Bayliss
+Graphics by Steven Day, Wayne Womersley, Johan Janssen and Richard Bayliss
+Exomizer level de-cruncher source by Magnus Lind
+Music by Joachim Wijnhoven
+Loader music by Richard Bayliss
+NTSC Bug fixing help and support by Dirk Schmitt and Simon Quernhorst
+Loader system by Martin Piper 
+Game Packaging by Kenz
+
+(C)2016 The New Dimension. Published for fun by Psytronik Software
+https://psytronik.itch.io/honey-bee-c64-free

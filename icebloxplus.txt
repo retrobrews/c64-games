@@ -1,0 +1,52 @@
+Iceblox Plus
+by Psytronik Software
+2019/09/10
+
+Psytronik Software is proud to present ICEBLOX PLUS, a C64 game by Karl Hörnell, 
+who  produced C64 classics like Clean Up Service, Fungus and Velocipede.  
+In this game you control Pixel Pete, the penguin.  The aim of the game is to 
+collect gold coins trapped in ice.  You can push ice blocks around to snuff out 
+the fire monsters that are roaming around the screens. Once you have collected 
+all the gold coins you will move onto the next more challenging screen.
+
+ICEBLOX PLUS is also available to order on physical floppy disk and tape from the 
+Binary Zone Interactive retro store. Click HERE to buy your copy now! --> 
+http://binaryzone.org/retrostore/index.php?main_page=advanced_search_result&search_in_description=1&keyword=iceblox
+
+  ** FEATURES ** 
+ 
+ • Multi-level block pushing action
+ 
+• Slick arcade-style gameplay
+ 
+• Polished presentation and graphics
+ 
+• Cute main character
+
+• C64mini Compatible
+
+
+** CREDITS ** 
+
+Programmed by Karl Hörnell
+ 
+Music by M.D.Smit
+ 
+Inlay design by Trevor 'Smila' Storey
+ 
+Additional packaging design by Jason 'Kenz' Mackenzie 
+ 
+Published by Psytronik Software
+ 
+© 2018 Eweguo
+
+
+** SYSTEM REQUIREMENTS **
+
+Iceblox Plus is a game for the Commodore 64. You can play the game in a C64 emulator 
+(we recommend VICE), on a C64mini or you can port the game onto real C64 hardware if 
+you have the resources to do so. The download file features the .d64 (disk version), 
+\.tap (tape version) and .prg (c64 program files).
+
+https://psytronik.itch.io/iceblox-plus
+https://www.youtube.com/watch?v=KHgLIXIFA0Y
