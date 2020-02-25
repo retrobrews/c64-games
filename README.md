@@ -18,7 +18,7 @@ Homebrew Commodore 64 games:
  - <b>Humpy64 [C64]</b> by Roysterini
  - <b>Iceblox Plus [C64]</b> by Psytronik Software
  - <b>It's Magic [C64]</b> by Protovision
- - <b>Joe Gunn Gold [C64]</b> by Psytronik Software
+ - <b>Joe Gunn Gold Edition [C64]</b> by Psytronik Software
  - <b>Lights Off [C64]</b> by Cout Games
  - <b>Lights On [C64]</b> by Cout Games
  - <b>Little Sara Sister Trilogy [C64]</b> by Ice Team
