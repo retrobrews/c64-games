@@ -157,6 +157,18 @@
      <players>1</players>
    </game>
    <game>
+     <path>./honeybee.d64</path>
+     <name>Honey Bee [C64]</name>
+     <desc>Take control of Buzzy, a busy but clumsy bee who has been given the job of collecting pollen from 16 levels. Avoid various perils on each level including natural hazards and rampaging wildlife and try your best to make the Queen Bee proud! Controls:Joystick in Port 2 (Directions to move the player, fire to drop pollen (when carried); Run/Stop -Pause game; Q (When paused) - Abort game and return to the front end; Restore returns to the front end at any time.</desc>
+     <image>./honeybee.png</image>
+     <rating>0</rating>
+     <releasedate>20160404T000000</releasedate>
+     <developer>Psytronik Software</developer>
+     <publisher>HOMEBREW ROM</publisher>
+     <genre>Honey Bee [C64]</genre>
+     <players>1</players>
+   </game>
+   <game>
      <path>./humpy64.prg</path>
      <name>Humpy64 [C64]</name>
      <desc>Survive from being hit by the swinging ball as long as you can. It slowly gets faster and some wind will affect you too, so you have to counteract the wind by pushing left/right to stay on the podium. Jump with fire... you can double jump if that sort of thing floats yer boat.</desc>
@@ -166,6 +178,42 @@
      <developer>Roysterini</developer>
      <publisher>HOMEBREW ROM</publisher>
      <genre>Humpy64</genre>
+     <players>1</players>
+   </game>
+   <game>
+     <path>./icebloxplus.d64</path>
+     <name>Iceblox Plus [C64]</name>
+     <desc>In this game you control Pixel Pete, the penguin.  The aim of the game is to collect gold coins trapped in ice.  You can push ice blocks around to snuff out  the fire monsters that are roaming around the screens. Once you have collected all the gold coins you will move onto the next more challenging screen. Use a joystick plugged into port 2. Press FIRE during gameplay to toggle music / sfx.</desc>
+     <image>./icebloxplus.png</image>
+     <rating>0</rating>
+     <releasedate>20190910T000000</releasedate>
+     <developer>Psytronik Software</developer>
+     <publisher>HOMEBREW ROM</publisher>
+     <genre>Iceblox Plus [C64]</genre>
+     <players>1</players>
+   </game>
+   <game>
+     <path>./itsmagic.d64</path>
+     <name>It's Magic [C64]</name>
+     <desc>It's Magic by Protovision is a jump'n run platformer with extremely cute graphics. The main character of the game is a little tomcat named Tommy - he is very curious and so he wants to be the first one who leaves his home world, the Dream Islands. To make this plan come true, he signs on at a wizard. Fascinating - but soon Tommy wants to return home and realizes that this is impossible! He needs the crystal sphere for that, and some magic potions... It's Magic consists of three worlds, each one is divided into 8 sections.</desc>
+     <image>./itsmagic.png</image>
+     <rating>0</rating>
+     <releasedate>20060508T000000</releasedate>
+     <developer>Protovision</developer>
+     <publisher>HOMEBREW ROM</publisher>
+     <genre>It's Magic [C64]</genre>
+     <players>1</players>
+   </game>
+   <game>
+     <path>./joegunngold.d64</path>
+     <name>Joe Gunn Gold [C64]</name>
+     <desc>You are Joseph J.Gunn.  Archaeologist by passion.  By chance you stumbled upon an unknown pyramid in the desert of Egypt.  You suspect it to be the long lost tomb of the Crocodile King.  The king whose name has been erased from history as if nobody should ever know of his existence. This is a 1 player game, controlled by a Joystick in port 2.Press SPACE to exit the title picture.  Press FIRE to begin the game. Move Joystick LEFT and RIGHT to make Joe run left and right. Press FIRE while running to make Joe jump in that direction. Move Joystick UP and DOWN to climb up and down ladders. Hold FIRE and move Joystick DOWN to search where Joe is standing. Hold FIRE and move Joystick UP to use items you are holding.</desc>
+     <image>./joegunngold.png</image>
+     <rating>0</rating>
+     <releasedate>20180314T000000</releasedate>
+     <developer>Psytronik Software</developer>
+     <publisher>HOMEBREW ROM</publisher>
+     <genre>Joe Gunn Gold [C64]</genre>
      <players>1</players>
    </game>
    <game>
@@ -454,6 +502,18 @@
      <developer>Cout Games</developer>
      <publisher>HOMEBREW ROM</publisher>
      <genre>The Labyrinth</genre>
+     <players>1</players>
+   </game>
+   <game>
+     <path>./thevicesquad.d64</path>
+     <name>The Vice Squad [C64]</name>
+     <desc>Featuring super-fast and silky-smooth scrolling, assorted weapons, multiple levels to blast your way through, superbly designed background graphics and amazing music this is one game you don't want to miss! El Guato, a Mexican drug baron, is expanding his empire to your city. He is ruthless and dangerous and must be stopped at all costs. You are Captain James Hutch, you've never dealt with a vilian this powerful before but that won't stop you from bringing his empire to it's knees.</desc>
+     <image>./thevicesquad.png</image>
+     <rating>0</rating>
+     <releasedate>XXXX0000T000000</releasedate>
+     <developer>Psytronik Software</developer>
+     <publisher>HOMEBREW ROM</publisher>
+     <genre>The Vice Squad [C64]</genre>
      <players>1</players>
    </game>
    <game>
