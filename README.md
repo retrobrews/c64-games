@@ -14,7 +14,11 @@ Homebrew Commodore 64 games:
  - <b>Gruniozerca [C64]</b> by 6bits (Lukasz Kies)
  - <b>Happy Flappy [C64]</b> by Roysterini
  - <b>Hektic II [C64]</b> by Roysterini
+ - <b>Honey Bee [C64]</b> by Psytronik Software
  - <b>Humpy64 [C64]</b> by Roysterini
+ - <b>Iceblox Plus [C64]</b> by Psytronik Software
+ - <b>It's Magic [C64]</b> by Protovision
+ - <b>Joe Gunn Gold [C64]</b> by Psytronik Software
  - <b>Lights Off [C64]</b> by Cout Games
  - <b>Lights On [C64]</b> by Cout Games
  - <b>Little Sara Sister Trilogy [C64]</b> by Ice Team
@@ -39,6 +43,7 @@ Homebrew Commodore 64 games:
  - <b>Sir Ababol [C64]</b> by Mojon Twins
  - <b>Snafu [C64]</b> by Megastyle
  - <b>The Labyrinth [C64]</b> by Cout Games
+ - <b>The Vice Squad [C64]</b> by Psytronik Software
  - <b>Tombstones [C64]</b> by Megastyle
  - <b>Trolley Follies [C64]</b> by BlackCastle
  - <b>Uwol, Quest for Money [C64]</b> by Mojon Twins
